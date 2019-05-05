@@ -1,4 +1,4 @@
-# Welcome to CyTargetLinker!
+## Welcome to CyTargetLinker!
 
 ***
 | [Tutorials](https://github.com/CyTargetLinker/cytargetlinker-tutorials/wiki/tutorials) | [Link sets](https://github.com/CyTargetLinker/cytargetlinker-tutorials/wiki/link-sets) | [How to cite](https://github.com/CyTargetLinker/cytargetlinker-tutorials/wiki/How-to-cite) | [Contact](https://github.com/CyTargetLinker/cytargetlinker-tutorials/wiki/contact)  |
