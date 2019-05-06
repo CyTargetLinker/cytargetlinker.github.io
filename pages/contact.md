@@ -28,7 +28,7 @@ Frequently answered questions will come soon.
 <td>
 <b><a href="https://www.linkedin.com/in/mkutmon/" target="_blank">Martina Summer-Kutmon</a></b>
 <br/>Main developer of CyTargetLinker
-<br/> Assistant professor at the Department of Bioinformatics (<a href="https://www.bigcat.unimaas.nl/" target="_blank">BiGCaT<a/>) and the Maastricht Centre for Systems Biology (<a href="https://www.maastrichtuniversity.nl/research/maastricht-centre-systems-biology" target="_blank">MaCSBio<a/>), Maastricht University
+<br/> Assistant professor at the Department of Bioinformatics (<a href="https://www.bigcat.unimaas.nl/" target="_blank">BiGCaT</a>) and the Maastricht Centre for Systems Biology (<a href="https://www.maastrichtuniversity.nl/research/maastricht-centre-systems-biology" target="_blank">MaCSBio</a>), Maastricht University
 </td>
 </tr>
 <tr>
