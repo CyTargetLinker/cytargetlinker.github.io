@@ -1,4 +1,4 @@
-<img src="images/citation.png" width="80" align="right"/>
+<img src="../images/citation.png" width="80" align="right"/>
 
 ## Bug reports
 Add an [issue on GitHub](https://github.com/CyTargetLinker/cytargetlinker/issues) with a description of the bug. Add screenshots if necessary. Add a label for "bug".
