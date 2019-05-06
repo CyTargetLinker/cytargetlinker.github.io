@@ -1,5 +1,5 @@
-<img src="https://github.com/CyTargetLinker/cytargetlinker-tutorials/blob/master/img/icons/citation.png" width="80" align="right"/>
-<img src="https://github.com/CyTargetLinker/cytargetlinker-tutorials/blob/master/img/general/ctl-logo.png" width="80" align="left"/>
+<img src="images/citation.png" width="80" align="right"/>
+<img src="images/ctl-logo.png" width="80" align="left"/>
 
 <br/><br/>
 

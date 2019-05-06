@@ -1,4 +1,4 @@
-<img src="https://github.com/CyTargetLinker/cytargetlinker-tutorials/blob/master/img/icons/network-icon.png" width="80" align="right"/>
+<img src="images/network-icon.png" width="80" align="right"/>
 
 We provide a number of different **link sets** useful for different types of network extension:
 * MicroRNA-related link sets
@@ -10,8 +10,8 @@ We provide a number of different **link sets** useful for different types of net
 
 If you are looking for a specific version of a link set, please check our [archive](http://projects.bigcat.unimaas.nl/data/cytargetlinker/regins/archive/). If you are missing a link set for a specific database, species or use case, please contact us and we will try to create the network files.
 
-**Do you want to create your own link set?** [Find our more](https://github.com/CyTargetLinker/cytargetlinker-tutorials/wiki/create-link-sets). <br/>
-If you have any questions, please [contact us](https://github.com/CyTargetLinker/cytargetlinker-tutorials/wiki/contact).
+**Do you want to create your own link set?** [Find our more](pages/create-link-sets). <br/>
+If you have any questions, please [contact us](pages/contact).
 
 ***
 

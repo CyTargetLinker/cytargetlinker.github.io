@@ -1,4 +1,4 @@
-<img src="https://github.com/CyTargetLinker/cytargetlinker-tutorials/blob/master/img/icons/tutorials-icon.png" width="80" align="right"/>
+<img src="images/tutorials-icon.png" width="80" align="right"/>
 
 Please have a look at our tutorials to get a better understanding on how CyTargetLinker works. You can also have a look at our [**CyTargetLinker tutorial presentation**](https://cytargetlinker.github.io/cytoscape-tutorials/presentations/cytargetlinker) to get started.
 
@@ -10,13 +10,13 @@ Please have a look at our tutorials to get a better understanding on how CyTarge
 <td><b>Tutorial</b></td><td><b>Topic</b></td>
 </tr>
 <tr>
-<td><a href="https://github.com/CyTargetLinker/cytargetlinker-tutorials/wiki/Tutorial-1">Tutorial 1<a/></td><td>Extend a set of microRNAs with regulatory information</td>
+<td><a href="pages/tutorial1">Tutorial 1<a/></td><td>Extend a set of microRNAs with regulatory information</td>
 </tr>
 <tr>
-<td><a href="https://github.com/CyTargetLinker/cytargetlinker-tutorials/wiki/tutorial2">Tutorial 2</a></td><td>Extend a biological pathway from WikiPathways with regulatory information</td>
+<td><a href="pages/tutorial2">Tutorial 2</a></td><td>Extend a biological pathway from WikiPathways with regulatory information</td>
 </tr>
 <tr>
-<td><a href="https://github.com/CyTargetLinker/cytargetlinker-tutorials/wiki/tutorial3">Tutorial 3</a></td><td>Extend a STRING protein-protein interaction network with pathway associations</td>
+<td><a href="pages/tutorial3">Tutorial 3</a></td><td>Extend a STRING protein-protein interaction network with pathway associations</td>
 </tr>
 </table>
 

@@ -1,7 +1,7 @@
-<img src="https://github.com/CyTargetLinker/cytargetlinker-tutorials/blob/master/img/icons/citation.png" width="80" align="right"/>
+<img src="images/citation.png" width="80" align="right"/>
 
 ## Bug reports
-Add an [issue on GitHub](https://github.com/CyTargetLinker/cytargetlinker-tutorials/issues) with a description of the bug. Add screenshots if necessary. Add a label for "bug".
+Add an [issue on GitHub](https://github.com/CyTargetLinker/cytargetlinker/issues) with a description of the bug. Add screenshots if necessary. Add a label for "bug".
 
 Please add the following information in your bug report to make testing easier:
 * Operating system
@@ -12,7 +12,7 @@ Please add the following information in your bug report to make testing easier:
 ***
 
 ## Feature requests
-Add an [issue on GitHub](https://github.com/CyTargetLinker/cytargetlinker-tutorials/issues) with a description of the new feature. Add a label for "enhancement".
+Add an [issue on GitHub](https://github.com/CyTargetLinker/cytargetlinker/issues) with a description of the new feature. Add a label for "enhancement".
 
 ***
 
@@ -24,7 +24,7 @@ Frequently answered questions will come soon.
 ## Team
 <table border="0">
 <tr>
-<td><img src="https://github.com/CyTargetLinker/cytargetlinker-tutorials/blob/master/img/general/mkutmon.jpeg" width="120"/></td>
+<td><img src="images/mkutmon.jpeg" width="120"/></td>
 <td>
 <b><a href="https://www.linkedin.com/in/mkutmon/" target="_blank">Martina Summer-Kutmon</a></b>
 <br/>Main developer of CyTargetLinker
@@ -32,11 +32,11 @@ Frequently answered questions will come soon.
 </td>
 </tr>
 <tr>
-<td><img src="https://github.com/CyTargetLinker/cytargetlinker-tutorials/blob/master/img/general/scoort.jpeg" width="120"/></td>
+<td><img src="images/scoort.jpeg" width="120"/></td>
 <td>
 <b><a href="https://www.linkedin.com/in/susan-steinbusch-coort-6a47542/" target="_blank">Susan Steinbusch-Coort</a></b>
 <br/> Support and project design
-<br/> Assistant professor at the Department of Bioinformatics (<a href="https://www.bigcat.unimaas.nl/" target="_blank">BiGCaT<a/>), Maastricht University
+<br/> Assistant professor at the Department of Bioinformatics (<a href="https://www.bigcat.unimaas.nl/" target="_blank">BiGCaT</a>), Maastricht University
 </td>
 </tr>
 </table>
