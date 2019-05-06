@@ -41,7 +41,9 @@ Frequently answered questions will come soon.
 </tr>
 </table>
 
+
 ***
+
 
 ## Link set development
 
@@ -53,7 +55,9 @@ Frequently answered questions will come soon.
 <br/> Small molecule-protein interactions (link set)
 <br/> Assistant professor at the Department of Bioinformatics ([BiGCaT](https://www.bigcat.unimaas.nl/)), Maastricht University
 
+
 ***
+
 
 ## Former developers
 
