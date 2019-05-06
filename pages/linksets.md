@@ -1,4 +1,4 @@
-<img src="images/network-icon.png" width="80" align="right"/>
+<img src="../images/network-icon.png" width="80" align="right"/>
 
 We provide a number of different **link sets** useful for different types of network extension:
 * MicroRNA-related link sets
