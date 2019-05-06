@@ -10,7 +10,7 @@ Please have a look at our tutorials to get a better understanding on how CyTarge
 <td><b>Tutorial</b></td><td><b>Topic</b></td>
 </tr>
 <tr>
-<td><a href="tutorial1">Tutorial 1<a/></td><td>Extend a set of microRNAs with regulatory information</td>
+<td><a href="tutorial1">Tutorial 1</a></td><td>Extend a set of microRNAs with regulatory information</td>
 </tr>
 <tr>
 <td><a href="tutorial2">Tutorial 2</a></td><td>Extend a biological pathway from WikiPathways with regulatory information</td>
