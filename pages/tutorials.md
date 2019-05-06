@@ -1,4 +1,4 @@
-<img src="images/tutorials-icon.png" width="80" align="right"/>
+<img src="../images/tutorials-icon.png" width="80" align="right"/>
 
 Please have a look at our tutorials to get a better understanding on how CyTargetLinker works. You can also have a look at our [**CyTargetLinker tutorial presentation**](https://cytargetlinker.github.io/cytoscape-tutorials/presentations/cytargetlinker) to get started.
 
