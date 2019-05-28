@@ -24,7 +24,7 @@ If you have any questions, please [contact us](pages/contact).
 <td>miRTarBase</td><td>microRNA-target gene</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/mirtarbase">Link sets<a/></td>
 </tr>
 <tr>
-<td>TargetScan</td><td>microRNA-target gene</td><td></td>
+<td>TargetScan</td><td>microRNA-target gene</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/targetscan">Link sets<a/></td>
 </tr>
 <tr>
 <td>Tarbase</td><td>microRNA-target gene</td><td></td>
@@ -33,7 +33,7 @@ If you have any questions, please [contact us](pages/contact).
 <td>miRecords</td><td>microRNA-target gene</td><td></td>
 </tr>
 <tr>
-<td>TransmiR</td><td>Transcription factor – microRNA interactions</td><td></td>
+<td>TransmiR</td><td>Transcription factor – microRNA interactions</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/transmir">Link sets<a/></td>
 </tr>
 <tr>
 <td>miRBase</td><td>primary transcript – miRNA</td><td></td>
