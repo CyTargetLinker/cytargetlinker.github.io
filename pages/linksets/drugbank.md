@@ -1,11 +1,12 @@
 ## DrugBank link sets
 
-**TargetScan: Predicting effective microRNA target sites in mammalian mRNAs.<br/>**
-Agarwal V, Bell GW, Nam JW, Bartel DP.<br/>
-Elife. 2015 Aug 12;4.<br/>
-doi: [10.7554/eLife.05005](http://doi.org/10.7554/eLife.05005)
+**DrugBank 4.0: shedding new light on drug metabolism.<br/>**
+Law V, Knox C, Djoumbou Y, Jewison T, Guo AC, Liu Y, Maciejewski A, Arndt D, Wilson M, Neveu V, Tang A, Gabriel G, Ly C, Adamjee S, Dame ZT, Han B, Zhou Y, Wishart DS.<br/>
+Nucleic Acids Res. 2014 Jan 1;42(1):D1091-7<br/>
+doi: [10.1093/nar/gkt1068](http://doi.org/10.1093/nar/gkt1068)
 
-TargetScan website: [http://www.targetscan.org/](http://www.targetscan.org/)
+DrugBank website: [https://www.drugbank.ca/](https://www.drugbank.ca/)<br/>
+Terms of use: [terms of use](https://www.drugbank.ca/legal/terms_of_use)
 
 ---
 
