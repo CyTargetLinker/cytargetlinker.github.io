@@ -5,7 +5,7 @@ Gaulton A, Hersey A, Nowotka M, Bento AP, Chambers J, Mendez D, Mutowo P, Atkins
 Nucleic Acids Res. 2017 Jan 4;45(D1):D945-D954.<br/>
 doi: [10.1093/nar/gkw1074](http://doi.org/10.1093/nar/gkw1074)
 
-ChEMBL website: [www.ebi.ac.uk/chembl](https://www.ebi.ac.uk/chembl)
+ChEMBL website: [www.ebi.ac.uk/chembl](https://www.ebi.ac.uk/chembl)<br/>
 ChEMBL terms of use: [terms of use](https://www.ebi.ac.uk/about/terms-of-use)
 
 ---
