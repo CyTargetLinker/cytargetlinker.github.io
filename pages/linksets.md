@@ -26,17 +26,17 @@ If you have any questions, please [contact us](pages/contact).
 <tr>
 <td>TargetScan</td><td>microRNA-target gene</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/targetscan">Link sets<a/></td>
 </tr>
-<tr>
+<!--<tr>
 <td>Tarbase</td><td>microRNA-target gene</td><td></td>
 </tr>
 <tr>
 <td>miRecords</td><td>microRNA-target gene</td><td></td>
-</tr>
+</tr>-->
 <tr>
 <td>TransmiR</td><td>Transcription factor – microRNA interactions</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/transmir">Link sets<a/></td>
 </tr>
 <tr>
-<td>miRBase</td><td>primary transcript – miRNA</td><td></td>
+<td>miRBase</td><td>primary transcript – miRNA</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/mirbase"></td>
 </tr>
 </table>
 
