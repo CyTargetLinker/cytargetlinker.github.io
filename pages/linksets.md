@@ -65,7 +65,7 @@ If you have any questions, please [contact us](pages/contact).
 <td>DrugBank</td><td>drug-target interactions</td><td></td>
 </tr>
 <tr>
-<td>ChEMBL</td><td>compound – protein target</td><td></td>
+<td>ChEMBL</td><td>compound – protein target</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/chembl">Link sets<a/></td>
 </tr>
 </table>
 
