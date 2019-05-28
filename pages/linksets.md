@@ -52,7 +52,7 @@ If you have any questions, please [contact us](pages/contact).
 <td>TFe</td><td>TF-target interactions</td><td></td>
 </tr>
 <tr>
-<td>TransmiR</td><td>Transcription factor – microRNA interactions</td><td></td>
+<td>TransmiR</td><td>Transcription factor – microRNA interactions</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/transmir">Link sets<a/></td>
 </tr>
 </table>
 
