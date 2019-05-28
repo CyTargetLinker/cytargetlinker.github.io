@@ -36,7 +36,7 @@ If you have any questions, please [contact us](pages/contact).
 <td>TransmiR</td><td>Transcription factor – microRNA interactions</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/transmir">Link sets<a/></td>
 </tr>
 <tr>
-<td>miRBase</td><td>primary transcript – miRNA</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/mirbase"></td>
+<td>miRBase</td><td>primary transcript – miRNA</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/mirbase">Link sets<a/></td>
 </tr>
 </table>
 
