@@ -12,7 +12,7 @@ Terms of use: [terms of use](https://www.drugbank.ca/legal/terms_of_use)
 
 ### DrugBank release 4.2
 
-The database content was downloaded from [here](http://www.targetscan.org/vert_71/vert_71_data_download/) (Conserved site context++ scores only!). 
+The database content was downloaded from [here](https://www.drugbank.ca/releases). 
 The link sets were created with the [linksetCreator v.2.0](https://github.com/CyTargetLinker/linksetCreator). Don’t forget to first unzip all link set files that you want to use and put them in the same folder.
 
 | **Link set** | **Selection** | **Species** | **Interactions** | **Drugs** | **Target genes** | **Supported gene identifiers** |
