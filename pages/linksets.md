@@ -75,7 +75,7 @@ If you have any questions, please [contact us](pages/contact).
 <td><b>Database</b></td><td><b>Interaction Types</b></td><td><b>Link sets</b></td>
 </tr>
 <tr>
-<td>WikiPathways</td><td>gene – pathway associations</td><td></td>
+<td>WikiPathways</td><td>gene – pathway associations</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/wikipathways">Link sets<a/></td>
 </tr>
 </table>
 
