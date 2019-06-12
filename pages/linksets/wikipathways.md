@@ -10,6 +10,16 @@ WikiPathways license: [license](https://www.wikipathways.org/index.php/WikiPathw
 
 ---
 
+### WikiPathways release 2019-06-10
+
+The database content was retrieved from [here](http://data.wikipathways.org/20190610/). Don’t forget to first unzip all link set files that you want to use and put them in the same folder.
+
+| LinkSet | Species | Interactions | Pathways | Genes | Supported gene identifiers |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [wikipathways-hsa-20190610.zip](https://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/wikipathways/wikipathways-hsa-20190610.zip) | Homo sapiens (hsa) | 22,622 | 526 | 6,599 | Ensembl, NCBI Gene, HGNC |
+
+---
+
 ### WikiPathways release 2018-05-10
 
 The database content was retrieved from [here](http://data.wikipathways.org/20180510/). Don’t forget to first unzip all link set files that you want to use and put them in the same folder.
