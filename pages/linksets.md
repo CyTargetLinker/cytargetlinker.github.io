@@ -33,10 +33,10 @@ If you have any questions, please [contact us](pages/contact).
 <td>miRecords</td><td>microRNA-target gene</td><td></td>
 </tr>-->
 <tr>
-<td>TransmiR</td><td>Transcription factor – microRNA interactions</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/transmir">Link sets</a></td>
+<td>TransmiR</td><td>Transcription factor – microRNA interactions</td><td><a href="linksets/transmir">Link sets</a></td>
 </tr>
 <tr>
-<td>miRBase</td><td>primary transcript – miRNA</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/mirbase">Link sets</a></td>
+<td>miRBase</td><td>primary transcript – miRNA</td><td><a href="linksets/mirbase">Link sets</a></td>
 </tr>
 </table>
 
@@ -46,13 +46,13 @@ If you have any questions, please [contact us](pages/contact).
 <td><b>Database</b></td><td><b>Interaction Types</b></td><td><b>Link sets</b></td>
 </tr>
 <tr>
-<td>ENCODE</td><td>TF-target interactions</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/encode">Link sets</a></td>
+<td>ENCODE</td><td>TF-target interactions</td><td><a href="linksets/encode">Link sets</a></td>
 </tr>
 <!--<tr>
 <td>TFe</td><td>TF-target interactions</td><td></td>
 </tr>-->
 <tr>
-<td>TransmiR</td><td>Transcription factor – microRNA interactions</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/transmir">Link sets</a></td>
+<td>TransmiR</td><td>Transcription factor – microRNA interactions</td><td><a href="linksets/transmir">Link sets</a></td>
 </tr>
 </table>
 
@@ -62,10 +62,10 @@ If you have any questions, please [contact us](pages/contact).
 <td><b>Database</b></td><td><b>Interaction Types</b></td><td><b>Link sets</b></td>
 </tr>
 <tr>
-<td>DrugBank</td><td>drug-target interactions</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/drugbank">Link sets</a></td>
+<td>DrugBank</td><td>drug-target interactions</td><td><a href="linksets/drugbank">Link sets</a></td>
 </tr>
 <tr>
-<td>ChEMBL</td><td>compound – protein target</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/chembl">Link sets</a></td>
+<td>ChEMBL</td><td>compound – protein target</td><td><a href="linksets/chembl">Link sets</a></td>
 </tr>
 </table>
 
@@ -75,7 +75,7 @@ If you have any questions, please [contact us](pages/contact).
 <td><b>Database</b></td><td><b>Interaction Types</b></td><td><b>Link sets</b></td>
 </tr>
 <tr>
-<td>WikiPathways</td><td>gene – pathway associations</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/wikipathways">Link sets</a></td>
+<td>WikiPathways</td><td>gene – pathway associations</td><td><a href="linksets/wikipathways">Link sets</a></td>
 </tr>
 </table>
 
