@@ -29,7 +29,7 @@ A link set is a network containing additional information and links about nodes 
 Before starting CyTargetLinker you need to **download the link sets of interest** and store them in a **directory**. In this example, we will use microRNA-gene interaction link sets from miRTarBase (validated interactions) and TargetScan (predicted interactions). For this tutorial, you can download a zip file containing both link sets from here. 
 * Download the zip file and unzip it so both xgmml files are in the **tutorial1-linksets directory**. 
 
-![Figure 3](../../images/tutorial1/figure2.png)
+![Figure 3](../../images/tutorial1/figure3.png)
 
 
 
