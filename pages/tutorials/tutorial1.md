@@ -21,25 +21,17 @@ An example datafile, in which two microRNAs known to be involved in obesity are 
 
 <table>
   <tr>
-    <td><img src="https://cytargetlinker.github.io/images/tutorial1/figure1.png" alt="Figure 1"/></td>
+    <td><img src="https://cytargetlinker.github.io/images/tutorial1/figure1.png" alt="Figure 1"/><br/>Figure 1</td>
   </tr>
 </table>
 
-<div>
-  <kbd>
-    <img src="https://cytargetlinker.github.io/images/tutorial1/figure1.png" alt="Figure 1" style="padding-bottom:0.5em;"/>
-  </kbd>
-  Figure 1
-</div>
-
 The resulting biological network of two microRNAs from the example data, as shown in Figure 2.
 
-<div>
-  <kbd>
-    <img src="https://cytargetlinker.github.io/images/tutorial1/figure2.png" alt="Figure 2" style="padding-bottom:0.5em;"/>
-  </kbd>
-  Figure 2
-</div>
+<table>
+  <tr>
+    <td><img src="https://cytargetlinker.github.io/images/tutorial1/figure2.png" alt="Figure 2"/><br/>Figure 2</td>
+  </tr>
+</table>
 
 -----
 
@@ -49,12 +41,11 @@ A link set is a network containing additional information and links about nodes 
 Before starting CyTargetLinker you need to **download the link sets of interest** and store them in a **directory**. In this example, we will use microRNA-gene interaction link sets from miRTarBase (validated interactions) and TargetScan (predicted interactions). For this tutorial, you can download a zip file containing both link sets from [here](../../data/tutorial1/tutorial1-linksets.zip). 
 * Download the zip file and unzip it so both xgmml files are in the **tutorial1-linksets directory**. 
 
-<div>
-  <kbd>
-    <img src="https://cytargetlinker.github.io/images/tutorial1/figure3.png" alt="Figure 3" style="padding-bottom:0.5em;"/>
-  </kbd>
-  Figure 3
-</div>
+<table>
+  <tr>
+    <td><img src="https://cytargetlinker.github.io/images/tutorial1/figure3.png" alt="Figure 3"/><br/>Figure 3</td>
+  </tr>
+</table>
 
 -----
 
@@ -67,39 +58,35 @@ Before starting CyTargetLinker you need to **download the link sets of interest*
 * Browse to the downloaded **tutorial1-linksets directory** to select the link sets used for extension. 
 * Select **'TARGET'** as direction, indiciating that you want to add target genes from the current microRNA nodes.
 
-<div>
-  <kbd>
-    <img src="https://cytargetlinker.github.io/images/tutorial1/figure4.png" alt="Figure 4" style="padding-bottom:0.5em;"/>
-  </kbd>
-  Figure 4
-</div>
+<table>
+  <tr>
+    <td><img src="https://cytargetlinker.github.io/images/tutorial1/figure4.png" alt="Figure 4"/><br/>Figure 4</td>
+  </tr>
+</table>
 
 After clicking 'OK', you can select which of the link sets in the folder should be used - in this tutorial, we will use both available link sets in one extension step (Figure 5).
 
-<div>
-  <kbd>
-    <img src="https://cytargetlinker.github.io/images/tutorial1/figure5.png" alt="Figure 5" style="padding-bottom:0.5em;"/>
-  </kbd>
-  Figure 5
-</div>
+<table>
+  <tr>
+    <td><img src="https://cytargetlinker.github.io/images/tutorial1/figure5.png" alt="Figure 5"/><br/>Figure 5</td>
+  </tr>
+</table>
 
 After the extension (this might take a littel while depending on the size of the original network and link sets), the extended network is visualized in a new Cytoscape network, as shown in Figure 6. Go to **'Apps -> CyTargetLinker -> Show result panel'** to see how many interactions are added from which link set. For the current extension 942 edges from miRTarBase and 2,997 from TargetScan where added. The edge color indicates from which link set the interaction was added (red for miRTarBase and blue for TargetScan).
 
-<div>
-  <kbd>
-    <img src="https://cytargetlinker.github.io/images/tutorial1/figure6.png" alt="Figure 6" style="padding-bottom:0.5em;"/>
-  </kbd>
-  Figure 6
-</div>
+<table>
+  <tr>
+    <td><img src="https://cytargetlinker.github.io/images/tutorial1/figure6.png" alt="Figure 6"/><br/>Figure 6</td>
+  </tr>
+</table>
 
 Since the default layout (forced-directed) is not ideal for this specific extended network, you can try other layouts (e.g. the yFiles organic layout, see Figure 7). This gives you a better idea about how many shared targets the two microRNAs have.
 
-<div>
-  <kbd>
-    <img src="https://cytargetlinker.github.io/images/tutorial1/figure7.png" alt="Figure 7" style="padding-bottom:0.5em;"/>
-  </kbd>
-  Figure 7
-</div>
+<table>
+  <tr>
+    <td><img src="https://cytargetlinker.github.io/images/tutorial1/figure7.png" alt="Figure 7"/><br/>Figure 7</td>
+  </tr>
+</table>
 
 -----
 
@@ -110,11 +97,8 @@ At any point can you hide certain link sets by using the **'Show/Hide'** dropdow
 A very useful feature for large networks with multiple link sets containing the same interaction type, you can use the **'Overlap threshold' functionality**. If you select '2', then you will only see those interactions that are present in at least two link sets.
 If you try this in the tutorial network, you will only see 454 microRNA-gene relationships (two edges between each of them – from each database one, see Figure 8). Those interactions are the only ones that are present in both databases.
 
-<div>
-  <kbd>
-    <img src="https://cytargetlinker.github.io/images/tutorial1/figure8.png" alt="Figure 8" style="padding-bottom:0.5em;"/>
-  </kbd>
-  Figure 8
-</div>
-
-
+<table>
+  <tr>
+    <td><img src="https://cytargetlinker.github.io/images/tutorial1/figure8.png" alt="Figure 8"/><br/>Figure 8</td>
+  </tr>
+</table>
