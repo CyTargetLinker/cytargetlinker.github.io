@@ -20,8 +20,7 @@ An example datafile, in which two microRNAs known to be involved in obesity are 
 * After clicking **'OK'**, you will receive the following warning: "No edges will be created in the network; the source column is not selected. Do you want to continue?". Click **'Yes'**.
 
 ![Figure 1](../../images/tutorial1/figure1.png)
-
-Figure 1
+*Figure 1*
 
 The resulting biological network of two microRNAs from the example data, as shown in Figure 2.
 
