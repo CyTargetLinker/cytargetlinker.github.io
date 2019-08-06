@@ -19,6 +19,12 @@ An example datafile, in which two microRNAs known to be involved in obesity are 
 * Specify the **microRNA** column as the **Source Node** (click on header and select green circle) and the **miRBase ID** as a **Source Node Attribute** (green data sheet), as shown in Figure 1. 
 * After clicking **'OK'**, you will receive the following warning: "No edges will be created in the network; the source column is not selected. Do you want to continue?". Click **'Yes'**.
 
+<table>
+  <tr>
+    <td><img src="https://cytargetlinker.github.io/images/tutorial1/figure1.png" alt="Figure 1"/></td>
+  </tr>
+</table>
+
 <div>
   <kbd>
     <img src="https://cytargetlinker.github.io/images/tutorial1/figure1.png" alt="Figure 1" style="padding-bottom:0.5em;"/>
