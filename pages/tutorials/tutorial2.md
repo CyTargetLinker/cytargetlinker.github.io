@@ -46,7 +46,7 @@ The WikiPathways app already performs an identifier mapping step automatically a
 A link set is a network containing additional information and links about nodes in the network. This could be regulatory interactions like microRNA-gene or drug-target interactions. The networks are stored in **XGMML** (the eXtensible Graph Markup and Modeling Language) format, which is supported by Cytoscape. Each link set contains interactions consisting of two nodes, source and target, connected through one directed edge. Several link set for different use cases, species and interaction types are **provided on our [website](https://cytargetlinker.github.io/pages/linksets)**, see Figure 3. CyTargetLinker is not limited to the provided link sets. A user can also easily create their own link sets.
 
 Before starting CyTargetLinker you need to **download the link sets of interest** and store them in a **directory**. In this example, we will use TF-target and drug-target interaction link sets from ENCODE and DrugBank, respectively. All three link sets are available from the website, but for the tutorial, you can download a zip file containing both link sets from **[here](../../data/tutorial2/tutorial2-linksets.zip)**.
-* Download the zip file and unzip it so both xgmml files are in the **tutorial2-linksets directory**. 
+* Download the [zip file](../../data/tutorial2/tutorial2-linksets.zip) and unzip it so both xgmml files are in the **tutorial2-linksets directory**. 
 
 <table>
   <tr>
