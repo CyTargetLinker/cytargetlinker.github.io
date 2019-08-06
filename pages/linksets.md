@@ -21,10 +21,10 @@ If you have any questions, please [contact us](pages/contact).
 <td><b>Database</b></td><td><b>Interaction Types</b></td><td><b>Link sets</b></td>
 </tr>
 <tr>
-<td>miRTarBase</td><td>microRNA-target gene</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/mirtarbase">Link sets</a></td>
+<td>miRTarBase</td><td>microRNA-target gene</td><td><a href="linksets/mirtarbase">Link sets</a></td>
 </tr>
 <tr>
-<td>TargetScan</td><td>microRNA-target gene</td><td><a href="https://cytargetlinker.github.io/gh-pages/pages/linksets/targetscan">Link sets</a></td>
+<td>TargetScan</td><td>microRNA-target gene</td><td><a href="linksets/targetscan">Link sets</a></td>
 </tr>
 <!--<tr>
 <td>Tarbase</td><td>microRNA-target gene</td><td></td>
