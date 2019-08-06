@@ -49,7 +49,7 @@ Frequently answered questions will come soon.
 
 * **Friederike Ehrhart**
 <br/> Disease-gene associations for rare diseases (link set)
-<br/> Postdoctoral researcher at the Department of Bioinformatics ([BiGCaT](https://www.bigcat.unimaas.nl/)), Maastricht University
+<br/> Assistant professor at the Department of Bioinformatics ([BiGCaT](https://www.bigcat.unimaas.nl/)), Maastricht University
 
 * **Egon Willighagen**
 <br/> Small molecule-protein interactions (link set)
