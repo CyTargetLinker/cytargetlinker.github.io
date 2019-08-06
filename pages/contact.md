@@ -24,7 +24,7 @@ Frequently answered questions will come soon.
 ## Team
 <table border="0">
 <tr>
-<td><img src="images/mkutmon.jpeg" width="120"/></td>
+<td><img src="images/Tina.jpeg"/></td>
 <td>
 <b><a href="https://www.linkedin.com/in/mkutmon/" target="_blank">Martina Summer-Kutmon</a></b>
 <br/>Main developer of CyTargetLinker
@@ -32,7 +32,7 @@ Frequently answered questions will come soon.
 </td>
 </tr>
 <tr>
-<td><img src="images/scoort.jpeg" width="120"/></td>
+<td><img src="images/Susan.jpeg"/></td>
 <td>
 <b><a href="https://www.linkedin.com/in/susan-steinbusch-coort-6a47542/" target="_blank">Susan Steinbusch-Coort</a></b>
 <br/> Support and project design
