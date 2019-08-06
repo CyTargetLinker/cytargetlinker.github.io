@@ -13,7 +13,7 @@ The tutorial was created for the following versions:
 ## Step 1: Import a set of microRNAs into Cytoscape
 
 First you will need to create a biological network in Cytoscape containing your microRNAs of interest. The datafile should contain at least two columns, (i) the microRNA name and (ii) the corresponding miRBase accession number. 
-An example datafile, in which two microRNAs known to be involved in obesity are listed, can be downloaded from here (microRNA.xlsx). 
+An example datafile, in which two microRNAs known to be involved in obesity are listed, can be downloaded from here ([microRNA.xlsx](../../data/tutorial1/microRNAs.xlsx)). 
 
 * Open the datafile containing the microRNAs in Cytoscape via **File -> Import -> Network from File**. Select the downloaded microRNA.xlsx file.
 * Specify the **microRNA** column as the **Source Node** (click on header and select green circle) and the **miRBase ID** as a **Source Node Attribute** (green data sheet), as shown in Figure 1. 
@@ -34,7 +34,7 @@ Figure 2
 ## Step 2: Download MTI link sets
 A link set is a network containing additional information and links about nodes in the network. This could be regulatory interactions like microRNA-gene interactions. The networks are stored in **XGMML** (the eXtensible Graph Markup and Modeling Language) format, which is supported by Cytoscape. Each link set contains interactions consisting of two nodes, source and target, connected through one directed edge. Several link set for different use cases, species and interaction types are **provided on our [website](https://cytargetlinker.github.io/pages/linksets)**, see Figure 3. CyTargetLinker is not limited to the provided link sets. A user can also easily create their own link sets.
 
-Before starting CyTargetLinker you need to **download the link sets of interest** and store them in a **directory**. In this example, we will use microRNA-gene interaction link sets from miRTarBase (validated interactions) and TargetScan (predicted interactions). For this tutorial, you can download a zip file containing both link sets from here. 
+Before starting CyTargetLinker you need to **download the link sets of interest** and store them in a **directory**. In this example, we will use microRNA-gene interaction link sets from miRTarBase (validated interactions) and TargetScan (predicted interactions). For this tutorial, you can download a zip file containing both link sets from [here](../../data/tutorial1/tutorial1-linksets.zip). 
 * Download the zip file and unzip it so both xgmml files are in the **tutorial1-linksets directory**. 
 
 ![Figure 3](../../images/tutorial1/figure3.png)
