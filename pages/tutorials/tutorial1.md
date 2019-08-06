@@ -21,9 +21,13 @@ An example datafile, in which two microRNAs known to be involved in obesity are 
 
 ![Figure 1](../../images/tutorial1/figure1.png)
 
+Figure 1
+
 The resulting biological network of two microRNAs from the example data, as shown in Figure 2.
 
 ![Figure 2](../../images/tutorial1/figure2.png)
+
+Figure 2
 
 -----
 
@@ -34,6 +38,8 @@ Before starting CyTargetLinker you need to **download the link sets of interest*
 * Download the zip file and unzip it so both xgmml files are in the **tutorial1-linksets directory**. 
 
 ![Figure 3](../../images/tutorial1/figure3.png)
+
+Figure 3
 
 -----
 
@@ -48,17 +54,25 @@ Before starting CyTargetLinker you need to **download the link sets of interest*
 
 ![Figure 4](../../images/tutorial1/figure4.png)
 
+Figure 4
+
 After clicking 'OK', you can select which of the link sets in the folder should be used - in this tutorial, we will use both available link sets in one extension step (Figure 5).
 
 ![Figure 5](../../images/tutorial1/figure5.png)
+
+Figure 5
 
 After the extension (this might take a littel while depending on the size of the original network and link sets), the extended network is visualized in a new Cytoscape network, as shown in Figure 6. Go to **'Apps -> CyTargetLinker -> Show result panel'** to see how many interactions are added from which link set. For the current extension 942 edges from miRTarBase and 2,997 from TargetScan where added. The edge color indicates from which link set the interaction was added (red for miRTarBase and blue for TargetScan).
 
 ![Figure 6](../../images/tutorial1/figure6.png)
 
+Figure 6
+
 Since the default layout (forced-directed) is not ideal for this specific extended network, you can try other layouts (e.g. the yFiles organic layout, see Figure 7). This gives you a better idea about how many shared targets the two microRNAs have.
 
 ![Figure 7](../../images/tutorial1/figure7.png)
+
+Figure 7
 
 -----
 
@@ -71,5 +85,6 @@ If you try this in the tutorial network, you will only see 454 microRNA-gene rel
 
 ![Figure 8](../../images/tutorial1/figure8.png)
 
+Figure 8
 
 
