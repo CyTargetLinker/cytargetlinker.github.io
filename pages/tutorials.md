@@ -33,4 +33,7 @@ Please have a look at our tutorials to get a better understanding on how CyTarge
 <tr>
 <td><a href="https://github.com/CyTargetLinker/cytargetlinker-automation/tree/master/R-automation/UseCase2">Automation Tutorial 2</a></td><td>R tutorial to extend differentially expressed genes with pathway associations</td>
 </tr>
+<tr>
+<td><a href="https://github.com/CyTargetLinker/cytargetlinker-automation/tree/master/R-automation/UseCase3">Automation Tutorial 3</a></td><td>R tutorial to extend author nodes with their publications and journal information</td>
+</tr>
 </table>
