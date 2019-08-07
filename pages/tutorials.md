@@ -28,9 +28,9 @@ Please have a look at our tutorials to get a better understanding on how CyTarge
 <td><b>Tutorial</b></td><td><b>Topic</b></td>
 </tr>
 <tr>
-<td><a href="https://github.com/CyTargetLinker/cytargetlinker-tutorials/tree/master/R/UseCase1">Automation Tutorial 1</a></td><td>R tutorial to extend Rett syndrome PPI network with compounds and diseases</td>
+<td><a href="https://github.com/CyTargetLinker/cytargetlinker-automation/tree/master/R-automation/UseCase1">Automation Tutorial 1</a></td><td>R tutorial to extend Rett syndrome PPI network with compounds and diseases</td>
 </tr>
 <tr>
-<td><a href="https://github.com/CyTargetLinker/cytargetlinker-tutorials/tree/master/R/UseCase2">Automation Tutorial 2</a></td><td>R tutorial to extend differentially expressed genes with pathway associations</td>
+<td><a href="https://github.com/CyTargetLinker/cytargetlinker-automation/tree/master/R-automation/UseCase2">Automation Tutorial 2</a></td><td>R tutorial to extend differentially expressed genes with pathway associations</td>
 </tr>
 </table>
