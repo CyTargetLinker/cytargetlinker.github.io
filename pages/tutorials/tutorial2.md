@@ -77,7 +77,7 @@ After clicking 'OK', you can select which of the link sets in the folder should 
   </tr>
 </table>
 
-After the extension (this might take a littel while depending on the size of the original network and link sets), the extended network is visualized in a new Cytoscape network, as shown in Figure 6. Go to **'Apps -> CyTargetLinker -> Show result panel'** to see how many interactions are added from which link set. For the current extension 17 edges from ENCODE distal, 50 edges from ENCODE proximal and 17 drug-target interactions from DrugBank were added. The edge color indicates from which link set the interaction was added (blue for ENCODE distal, red for ENCODE proximal and purple for DrugBank).
+After the extension (this might take a little while depending on the size of the original network and link sets), the extended network is visualized in a new Cytoscape network, as shown in Figure 6. Go to **'Apps -> CyTargetLinker -> Show result panel'** to see how many interactions are added from which link set. A pop-up box appears that says Show/hide Result Panel. Make sure the box is checked and press ok. In the Results Panel, select CTL_Cholesterol Biosynthesis Pathway – Homo sapiens (SUID:276) from the drop-down box. For the current extension 17 edges from ENCODE distal, 50 edges from ENCODE proximal and 17 drug-target interactions from DrugBank were added. The edge color indicates from which link set the interaction was added (blue for ENCODE distal, red for ENCODE proximal and purple for DrugBank).
 
 Drugs are shown in purple and transcription factors in blue. All elements from the original pathway are gray.
 
@@ -91,7 +91,7 @@ Drugs are shown in purple and transcription factors in blue. All elements from t
 
 ## Step 5: Adapting the visual style
 
-Fix node labels (some of the initial nodes might not show any node labels):
+Fix node labels (some of the initial nodes may not show any node labels):
 * Go to the **'Style' tab** and click on the mapping for the **'Label' property**.
 * Change the column from CTL.label to **'name'**.
 
