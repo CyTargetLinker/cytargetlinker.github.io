@@ -19,9 +19,9 @@ The tutorial was created for the following versions:
 
 -----
 
-## Step 2: Load PPI network from STRING
+## Step 2: Load Protein-Protein Interaction network from STRING
 
-* First you will need to create a PPI network in Cytoscape with relevant proteins for open-angle glaucoma.
+* First you will need to create a protein-protein interaction (PPI) network in Cytoscape with relevant proteins for open-angle glaucoma.
 * In the search bar in Cytoscape, select the STRING disease query and search for "open-angle glaucoma". 
 * Select a confidence cut-off of 0.4 and **a maximum number of proteins of 25**.
 
@@ -44,7 +44,7 @@ The resulting PPI network is created as shown in Figure 2.
 -----
 
 ## Step 3: Download pathway-gene association link sets
-A link set is a network containing additional information and links about nodes in the network. This could be regulatory interactions like microRNA-gene interactions or other associations like gene-pathway links. The networks are stored in **XGMML** (the eXtensible Graph Markup and Modeling Language) format, which is supported by Cytoscape. Each link set contains interactions consisting of two nodes, source and target, connected through one directed edge. Several link set for different use cases, species and interaction types are **provided on our [website](https://cytargetlinker.github.io/pages/linksets)**, see Figure 3. CyTargetLinker is not limited to the provided link sets. A user can also easily create their own link sets.
+A link set is a network containing additional information and links about nodes in the network. This could be regulatory interactions like microRNA-gene interactions or other associations like gene-pathway links. The networks are stored in **XGMML** (the eXtensible Graph Markup and Modeling Language) format, which is supported by Cytoscape. Each link set contains interactions consisting of two nodes, source and target, connected through one directed edge. Several link sets for different use cases, species and interaction types are **provided on our [website](https://cytargetlinker.github.io/pages/linksets)**, see Figure 3. CyTargetLinker is not limited to the provided link sets. A user can also easily create their own link sets.
 
 Before starting CyTargetLinker you need to **download the link sets of interest** and store them in a **directory**. In this example, we will use gene-pathway associations from WikiPathways. An edge between a gene and a pathway indidicates that the gene plays a role (is present) in this pathway. For this tutorial, you can download a zip file containing the link sets from [here](../../data/tutorial3/tutorial3-linksets.zip). 
 * Download the [zip file](../../data/tutorial3/tutorial3-linksets.zip) and unzip it so both xgmml files are in the **tutorial3-linksets directory**. 
@@ -78,7 +78,7 @@ After clicking 'OK', you can select which of the link sets in the folder should 
   </tr>
 </table>
 
-After the extension (this might take a littel while depending on the size of the original network and link sets), the extended network is visualized in a new Cytoscape network, as shown in Figure 6. Go to **'Apps -> CyTargetLinker -> Show result panel'** to see how many interactions are added from which link set. For the current extension 63 edges from WikiPathways were added. 
+After the extension (this might take a little while depending on the size of the original network and link sets), the extended network is visualized in a new Cytoscape network, as shown in Figure 6. Go to **'Apps -> CyTargetLinker -> Show result panel'** to see how many interactions are added from which link set. A pop-up box appears that says Show/hide Result Panel. Make sure the box is checked and press ok. In the Results Panel, select CTL_String Network – open-angle glaucoma (SUID:956) from the drop-down box. For the current extension 63 edges from WikiPathways were added. 
 
 Initial proteins are shown in gray and pathways are shown in purple. 
 <table>
@@ -91,7 +91,7 @@ Initial proteins are shown in gray and pathways are shown in purple.
 
 ## Step 5: Adapting the visual style
 
-Fix node labels (some of the initial nodes might not show any node labels):
+Fix node labels (some of the initial nodes may not show any node labels):
 * Go to the **'Style' tab** and click on the mapping for the **'Label' property**.
 * Change the column from CTL.label to **'display name'**.
 
