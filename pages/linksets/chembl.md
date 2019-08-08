@@ -1,4 +1,4 @@
-## ChEMBL link sets
+## ChEMBL linksets
 
 **The ChEMBL database in 2017.<br/>**
 Gaulton A, Hersey A, Nowotka M, Bento AP, Chambers J, Mendez D, Mutowo P, Atkinson F, Bellis LJ, Cibrián-Uhalte E, Davies M, Dedman N, Karlsson A, Magariños MP, Overington JP, Papadatos G, Smit I, Leach AR.<br/>
@@ -14,6 +14,6 @@ ChEMBL terms of use: [terms of use](https://www.ebi.ac.uk/about/terms-of-use)
 
 The database content was retrieved through the [SPARQL endpoint](https://www.ebi.ac.uk/rdf/services/sparql). Don’t forget to first unzip all link set files that you want to use and put them in the same folder.
 
-| LinkSet | Date | ChEMBL version | Species | Interactions | Compounds | Target proteins | Supported gene identifiers |
+| Linkset | Date | ChEMBL version | Species | Interactions | Compounds | Target proteins | Supported gene identifiers |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [chembl_23_hsa_20180126.zip](http://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/chembl/chembl_23_hsa_20180126.zip) | 2018-01-26 | ChEMBL 23 (pChEMBL > 6) | Homo sapiens (hsa) | 175,233 | 104,711 | 2,100 | UniProt, NCBI Gene, Ensembl, HGNC |
