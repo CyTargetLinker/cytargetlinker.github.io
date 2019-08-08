@@ -1,4 +1,4 @@
-## WikiPathways link sets
+## WikiPathways linksets
 
 **WikiPathways: a multifaceted pathway database bridging metabolomics to other omics research.<br/>**
 Slenter DN, Kutmon M, Hanspers K, Riutta A, Windsor J, Nunes N, Mélius J, Cirillo E, Coort SL, Digles D, Ehrhart F, Giesbertz P, Kalafati M, Martens M, Miller R, Nishida K, Rieswijk L, Waagmeester A, Eijssen LMT, Evelo CT, Pico AR, Willighagen EL.<br/>
@@ -12,9 +12,9 @@ WikiPathways license: [license](https://www.wikipathways.org/index.php/WikiPathw
 
 ### WikiPathways release 2019-06-10
 
-The database content was retrieved from [here](http://data.wikipathways.org/20190610/). Don’t forget to first unzip all link set files that you want to use and put them in the same folder.
+The database content was retrieved from [here](http://data.wikipathways.org/20190610/). Don’t forget to first unzip all linkset files that you want to use and put them in the same folder.
 
-| LinkSet | Species | Interactions | Pathways | Genes | Supported gene identifiers |
+| Linkset | Species | Interactions | Pathways | Genes | Supported gene identifiers |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [wikipathways-hsa-20190610.zip](https://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/wikipathways/wikipathways-hsa-20190610.zip) | Homo sapiens (hsa) | 22,622 | 526 | 6,599 | Ensembl, NCBI Gene, HGNC |
 
@@ -22,9 +22,9 @@ The database content was retrieved from [here](http://data.wikipathways.org/2019
 
 ### WikiPathways release 2018-05-10
 
-The database content was retrieved from [here](http://data.wikipathways.org/20180510/). Don’t forget to first unzip all link set files that you want to use and put them in the same folder.
+The database content was retrieved from [here](http://data.wikipathways.org/20180510/). Don’t forget to first unzip all linkset files that you want to use and put them in the same folder.
 
-| LinkSet | Species | Interactions | Pathways | Genes | Supported gene identifiers |
+| Linkset | Species | Interactions | Pathways | Genes | Supported gene identifiers |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [wikipathways-hsa-20180510.zip](http://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/wikipathways/wikipathways-hsa-20180510.zip) | Homo sapiens (hsa) | 18,716 | 431 | 5,942 | Ensembl, NCBI Gene, HGNC |
 | [wikipathways-mmu-20180510.zip](http://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/wikipathways/wikipathways-mmu-20180510.zip) | Mus musculus (mmu) | 9,343 | 173 | 4,519 | Ensembl, NCBI Gene, HGNC |
