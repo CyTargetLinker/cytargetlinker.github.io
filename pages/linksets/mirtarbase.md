@@ -1,4 +1,4 @@
-## miRTarBase link sets
+## miRTarBase linksets
 
 **miRTarBase: a database curates experimentally validated microRNA-target interactions.<br/>**
 Hsu SD, Lin FM, Wu WY, Liang C, Huang WC, Chan WL, Tsai WT, Chen GZ, Lee CJ, Chiu CM, Chien CH, Wu MC, Huang CY, Tsou AP, Huang HD.<br/>
@@ -13,9 +13,9 @@ miRTarBase license: [LICENSE](http://mirtarbase.mbc.nctu.edu.tw/cache/download/L
 ### miRTarBase release 7.0
 
 The database content was downloaded from [here.](http://mirtarbase.mbc.nctu.edu.tw/php/download.php?ver=7.0&opt=show)
-The link sets were created with the [linksetCreator v.2.0](https://github.com/CyTargetLinker/linksetCreator). Don’t forget to first unzip all link set files that you want to use and put them in the same folder.
+The linksets were created with the [linksetCreator v.2.0](https://github.com/CyTargetLinker/linksetCreator). Don’t forget to first unzip all linkset files that you want to use and put them in the same folder.
 
-| **Link set** | **Species** | **Interactions** | **microRNAs** | **Target genes** | **Supported gene identifiers** |
+| **Linkset** | **Species** | **Interactions** | **microRNAs** | **Target genes** | **Supported gene identifiers** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [mirtarbase_hsa_7.0.xgmml.zip](https://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/mirtarbase/mirtarbase_hsa_7.0.xgmml.zip) | Homo sapiens (hsa) | 502,652 | 2,595 | 15,038 | NCBI Gene, Ensembl, HGNC | 
 | [mirtarbase_mmu_7.0.xgmml.zip](https://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/mirtarbase/mirtarbase_mmu_7.0.xgmml.zip) | Mus musculus (mmu) | 49,830 | 958 | 7,233 | NCBI Gene, Ensembl | 
