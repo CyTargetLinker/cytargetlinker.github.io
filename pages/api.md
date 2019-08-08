@@ -16,5 +16,6 @@ Help -> Automation -> CyREST Command API
 
 If you go to the cytargetlinker section, you can expand each function and retrieve detailed documentation on the function and its parameters. The swagger documentation will always provide the current up-to-date documentation for the app version that you have installed.
 
+Screenshot of the swagger API:
 ![CyTargetLinker API](../images/cytargetlinker-API.png)
 
