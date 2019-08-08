@@ -32,7 +32,7 @@ This tutorial has been created with:
 </table>
 
 The pathway is now imported as a network (layout and graphical elements are removed, redundant nodes in the pathway are merged), see Figure 2.
-The WikiPathways app already performs an identifier mapping step automatically and adds an Ensembl column with the representive Ensembl identifiers for all genes in the pathway. As long as the link sets support Ensembl, no further identifier mapping steps are required.
+The WikiPathways app already performs an identifier mapping step automatically and adds an Ensembl column with the representive Ensembl identifiers for all genes in the pathway. As long as the linksets support Ensembl, no further identifier mapping steps are required.
 
 <table>
   <tr>
@@ -42,7 +42,7 @@ The WikiPathways app already performs an identifier mapping step automatically a
 
 -----
 
-## Step 3: Download relevant link sets
+## Step 3: Download relevant linksets
 A link set is a network containing additional information and links about nodes in the network. This could be regulatory interactions like microRNA-gene or drug-target interactions. The networks are stored in **XGMML** (the eXtensible Graph Markup and Modeling Language) format, which is supported by Cytoscape. Each link set contains interactions consisting of two nodes, source and target, connected through one directed edge. Several link set for different use cases, species and interaction types are **provided on our [website](https://cytargetlinker.github.io/pages/linksets)**, see Figure 3. CyTargetLinker is not limited to the provided link sets. A user can also easily create their own link sets.
 
 Before starting CyTargetLinker you need to **download the link sets of interest** and store them in a **directory**. In this example, we will use TF-target and drug-target interaction link sets from ENCODE and DrugBank, respectively. All three link sets are available from the website, but for the tutorial, you can download a zip file containing both link sets from **[here](../../data/tutorial2/tutorial2-linksets.zip)**.
