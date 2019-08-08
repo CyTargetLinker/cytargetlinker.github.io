@@ -43,10 +43,10 @@ The resulting PPI network is created as shown in Figure 2.
 
 -----
 
-## Step 3: Download pathway-gene association link sets
-A link set is a network containing additional information and links about nodes in the network. This could be regulatory interactions like microRNA-gene interactions or other associations like gene-pathway links. The networks are stored in **XGMML** (the eXtensible Graph Markup and Modeling Language) format, which is supported by Cytoscape. Each link set contains interactions consisting of two nodes, source and target, connected through one directed edge. Several link sets for different use cases, species and interaction types are **provided on our [website](https://cytargetlinker.github.io/pages/linksets)**, see Figure 3. CyTargetLinker is not limited to the provided link sets. A user can also easily create their own link sets.
+## Step 3: Download pathway-gene association linksets
+A linkset is a network containing additional information and links about nodes in the network. This could be regulatory interactions like microRNA-gene interactions or other associations like gene-pathway links. The networks are stored in **XGMML** (the eXtensible Graph Markup and Modeling Language) format, which is supported by Cytoscape. Each linkset contains interactions consisting of two nodes, source and target, connected through one directed edge. Several linksets for different use cases, species and interaction types are **provided on our [website](https://cytargetlinker.github.io/pages/linksets)**, see Figure 3. CyTargetLinker is not limited to the provided linksets. A user can also easily create their own linksets.
 
-Before starting CyTargetLinker you need to **download the link sets of interest** and store them in a **directory**. In this example, we will use gene-pathway associations from WikiPathways. An edge between a gene and a pathway indidicates that the gene plays a role (is present) in this pathway. For this tutorial, you can download a zip file containing the link sets from [here](../../data/tutorial3/tutorial3-linksets.zip). 
+Before starting CyTargetLinker you need to **download the linksets of interest** and store them in a **directory**. In this example, we will use gene-pathway associations from WikiPathways. An edge between a gene and a pathway indidicates that the gene plays a role (is present) in this pathway. For this tutorial, you can download a zip file containing the linksets from [here](../../data/tutorial3/tutorial3-linksets.zip). 
 * Download the [zip file](../../data/tutorial3/tutorial3-linksets.zip) and unzip it so both xgmml files are in the **tutorial3-linksets directory**. 
 
 <table>
@@ -60,8 +60,8 @@ Before starting CyTargetLinker you need to **download the link sets of interest*
 ## Step 4: Extend network in Cytoscape
 
 * Go to **'Apps -> CyTargetLinker -> Extend network'** (see Figure 4)
-* Select the correct elements in the drop-down boxes for **user network and network attribute**. The user network is the network you want to extend. The network attribute is the column that is used to identify the entities in the link set and needs to contain one of the supported identifiers. The gene-pathway link set supports HGNC symbols, so we can select the **'display name' column**. 
-* Browse to the downloaded **tutorial3-linksets directory** to select the link sets used for extension. 
+* Select the correct elements in the drop-down boxes for **user network and network attribute**. The user network is the network you want to extend. The network attribute is the column that is used to identify the entities in the linkset and needs to contain one of the supported identifiers. The gene-pathway linkset supports HGNC symbols, so we can select the **'display name' column**. 
+* Browse to the downloaded **tutorial3-linksets directory** to select the linksets used for extension. 
 * Select **'BOTH'** as direction.
 
 <table>
@@ -70,7 +70,7 @@ Before starting CyTargetLinker you need to **download the link sets of interest*
   </tr>
 </table>
 
-After clicking 'OK', you can select which of the link sets in the folder should be used - in this tutorial, we will only use the available link set (Figure 5).
+After clicking 'OK', you can select which of the linksets in the folder should be used - in this tutorial, we will only use the available linkset (Figure 5).
 
 <table>
   <tr>
@@ -78,7 +78,7 @@ After clicking 'OK', you can select which of the link sets in the folder should 
   </tr>
 </table>
 
-After the extension (this might take a little while depending on the size of the original network and link sets), the extended network is visualized in a new Cytoscape network, as shown in Figure 6. Go to **'Apps -> CyTargetLinker -> Show result panel'** to see how many interactions are added from which link set. A pop-up box appears that says Show/hide Result Panel. Make sure the box is checked and press ok. In the Results Panel, select CTL_String Network – open-angle glaucoma (SUID:956) from the drop-down box. For the current extension 63 edges from WikiPathways were added. 
+After the extension (this might take a little while depending on the size of the original network and linksets), the extended network is visualized in a new Cytoscape network, as shown in Figure 6. Go to **'Apps -> CyTargetLinker -> Show result panel'** to see how many interactions are added from which linkset. A pop-up box appears that says Show/hide Result Panel. Make sure the box is checked and press ok. In the Results Panel, select CTL_String Network – open-angle glaucoma (SUID:956) from the drop-down box. For the current extension 63 edges from WikiPathways were added. 
 
 Initial proteins are shown in gray and pathways are shown in purple. 
 <table>
