@@ -1,4 +1,4 @@
-## miRBase link sets
+## miRBase linksets
 
 **The microRNA Registry<br/>**
 S Griffiths‐Jones.<br/>
@@ -11,9 +11,9 @@ miRBase website: [http://www.mirbase.org/](http://www.mirbase.org/)
 
 ### miRBase release 21
 
-The database content was downloaded from [here](ftp://mirbase.org/pub/mirbase/21/). Don’t forget to first unzip all link set files that you want to use and put them in the same folder.
+The database content was downloaded from [here](ftp://mirbase.org/pub/mirbase/21/). Don’t forget to first unzip all linkset files that you want to use and put them in the same folder.
 
-| **Link set** | **Species** | **Interactions** | **Primary transcripts** | **microRNAs** |
+| **Linkset** | **Species** | **Interactions** | **Primary transcripts** | **microRNAs** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [mirbase-hsa-v21.xgmml.zip](http://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/mirbase/mirbase-hsa-v21.xgmml.zip) | Homo sapiens (hsa) | 1,881 | 2,813 | 2,813 |
 | [mirbase-mmu-v21.xgmml.zip](http://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/mirbase/mirbase-mmu-v21.xgmml.zip) | Mus musculus (mmu) | 1,187 | 2,045 | 2,045 | 
