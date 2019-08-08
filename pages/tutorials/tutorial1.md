@@ -35,10 +35,10 @@ The resulting biological network of two microRNAs from the example data, as show
 
 -----
 
-## Step 2: Download MTI link sets
-A link set is a network containing additional information about and links between nodes in the network. This could be regulatory interactions like microRNA-gene interactions. The networks are stored in **XGMML** (the eXtensible Graph Markup and Modeling Language) format, which is supported by Cytoscape. Each link set contains interactions consisting of two nodes, source and target, connected through one directed edge. Several link sets for different use cases, species and interaction types are **provided on our [website](https://cytargetlinker.github.io/pages/linksets)**, see Figure 3. CyTargetLinker is not limited to the provided link sets. A user can also easily create their own link sets.
+## Step 2: Download MTI linksets
+A linkset is a network containing additional information about and links between nodes in the network. This could be regulatory interactions like microRNA-gene interactions. The networks are stored in **XGMML** (the eXtensible Graph Markup and Modeling Language) format, which is supported by Cytoscape. Each linkset contains interactions consisting of two nodes, source and target, connected through one directed edge. Several linksets for different use cases, species and interaction types are **provided on our [website](https://cytargetlinker.github.io/pages/linksets)**, see Figure 3. CyTargetLinker is not limited to the provided linksets. A user can also easily create their own linksets.
 
-Before starting CyTargetLinker you need to **download the link sets of interest** and store them in a **directory**. In this example, we will use microRNA-gene interaction link sets from miRTarBase (validated interactions) and TargetScan (predicted interactions). For this tutorial, you can download a zip file containing both link sets from [here](../../data/tutorial1/tutorial1-linksets.zip). 
+Before starting CyTargetLinker you need to **download the linksets of interest** and store them in a **directory**. In this example, we will use microRNA-gene interaction linksets from miRTarBase (validated interactions) and TargetScan (predicted interactions). For this tutorial, you can download a zip file containing both linksets from [here](../../data/tutorial1/tutorial1-linksets.zip). 
 * Download the zip file and unzip it so both xgmml files are in the **tutorial1-linksets directory**. 
 
 <table>
@@ -54,8 +54,8 @@ Before starting CyTargetLinker you need to **download the link sets of interest*
 * **Install the CyTargetLinker app** via the app manager (Apps -> App Manager -> Select CyTargetLinker -> Click 'Install').
 * Let's start adding the known targets of the two microRNAs of interest.
 * Go to **'Apps -> CyTargetLinker -> Extend network'** (see Figure 4)
-* Select the correct elements in the drop-down boxes for **user network and network attribute**. The user network is the network you want to extend. The network attribute is the column that is used to identify the entities in the link set and needs to contain one of the supported identifiers. The MTI link sets support miRBase accession IDs, so we can select the miRBase ID column. 
-* Browse to the downloaded **tutorial1-linksets directory** to select the link sets used for extension. 
+* Select the correct elements in the drop-down boxes for **user network and network attribute**. The user network is the network you want to extend. The network attribute is the column that is used to identify the entities in the linkset and needs to contain one of the supported identifiers. The MTI linksets support miRBase accession IDs, so we can select the miRBase ID column. 
+* Browse to the downloaded **tutorial1-linksets directory** to select the linksets used for extension. 
 * Select **'TARGET'** as direction, indicating that you want to add target genes from the current microRNA nodes.
 
 <table>
@@ -64,7 +64,7 @@ Before starting CyTargetLinker you need to **download the link sets of interest*
   </tr>
 </table>
 
-After clicking 'OK', you can select which of the link sets in the folder should be used - in this tutorial, we will use both available link sets in one extension step (Figure 5).
+After clicking 'OK', you can select which of the linksets in the folder should be used - in this tutorial, we will use both available linksets in one extension step (Figure 5).
 
 <table>
   <tr>
@@ -72,7 +72,7 @@ After clicking 'OK', you can select which of the link sets in the folder should 
   </tr>
 </table>
 
-After the extension (this might take a little while depending on the size of the original network and link sets), the extended network is visualized in a new Cytoscape network, as shown in Figure 6. Go to **'Apps -> CyTargetLinker -> Show result panel'** to see how many interactions are added from which link set. A pop-up box appears that says Show/hide Result Panel. Make sure the box is checked and press ok. In the Results Panel, select CTL_microRNAs (SUID:94) from the drop-down box. For the current extension 942 edges from miRTarBase and 2,997 from TargetScan were added. The edge color indicates from which link set the interaction was added (red for miRTarBase and blue for TargetScan).
+After the extension (this might take a little while depending on the size of the original network and linksets), the extended network is visualized in a new Cytoscape network, as shown in Figure 6. Go to **'Apps -> CyTargetLinker -> Show result panel'** to see how many interactions are added from which linkset. A pop-up box appears that says Show/hide Result Panel. Make sure the box is checked and press ok. In the Results Panel, select CTL_microRNAs (SUID:94) from the drop-down box. For the current extension 942 edges from miRTarBase and 2,997 from TargetScan were added. The edge color indicates from which linkset the interaction was added (red for miRTarBase and blue for TargetScan).
 
 <table>
   <tr>
