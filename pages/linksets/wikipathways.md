@@ -16,7 +16,7 @@ The database content was retrieved from [here](http://data.wikipathways.org/2019
 
 | Linkset | Species | Interactions | Pathways | Genes | Supported gene identifiers |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [wikipathways-hsa-20190610.zip](https://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/wikipathways/wikipathways-hsa-20190610.zip) | Homo sapiens (hsa) | 22,622 | 526 | 6,599 | Ensembl, NCBI Gene, HGNC |
+| [wikipathways-hsa-20190610.zip](https://ndownloader.figshare.com/files/21623697?private_link=f491d68f327bf4978a74) | Homo sapiens (hsa) | 22,622 | 526 | 6,599 | Ensembl, NCBI Gene, HGNC |
 
 ---
 
