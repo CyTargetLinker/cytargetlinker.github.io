@@ -16,4 +16,4 @@ The database content was retrieved through the [SPARQL endpoint](https://www.ebi
 
 | Linkset | Date | ChEMBL version | Species | Interactions | Compounds | Target proteins | Supported gene identifiers |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [chembl_23_hsa_20180126.zip](http://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/chembl/chembl_23_hsa_20180126.zip) | 2018-01-26 | ChEMBL 23 (pChEMBL > 6) | Homo sapiens (hsa) | 175,233 | 104,711 | 2,100 | UniProt, NCBI Gene, Ensembl, HGNC |
+| [chembl_23_hsa_20180126.zip](https://ndownloader.figshare.com/files/21623691?private_link=6cf358aaaaf5adeecce9) | 2018-01-26 | ChEMBL 23 (pChEMBL > 6) | Homo sapiens (hsa) | 175,233 | 104,711 | 2,100 | UniProt, NCBI Gene, Ensembl, HGNC |
