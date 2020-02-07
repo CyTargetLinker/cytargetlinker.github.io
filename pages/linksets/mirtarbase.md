@@ -17,7 +17,7 @@ The linksets were created with the [linksetCreator v.2.0](https://github.com/CyT
 
 | **Linkset** | **Species** | **Interactions** | **microRNAs** | **Target genes** | **Supported gene identifiers** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [mirtarbase_hsa_7.0.xgmml.zip](https://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/mirtarbase/mirtarbase_hsa_7.0.xgmml.zip) | Homo sapiens (hsa) | 502,652 | 2,595 | 15,038 | NCBI Gene, Ensembl, HGNC | 
-| [mirtarbase_mmu_7.0.xgmml.zip](https://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/mirtarbase/mirtarbase_mmu_7.0.xgmml.zip) | Mus musculus (mmu) | 49,830 | 958 | 7,233 | NCBI Gene, Ensembl | 
-| [mirtarbase_rno_7.0.xgmml.zip](https://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/mirtarbase/mirtarbase_rno_7.0.xgmml.zip) | Rattus norvegicus (rno) | 632 | 179 | 344 | NCBI Gene, Ensembl | 
-| [mirtarbase_dre_7.0.xgmml.zip](https://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/mirtarbase/mirtarbase_dre_7.0.xgmml.zip) | Danio rerio (dre) | 152 | 45 | 107 | NCBI Gene, Ensembl | 
+| [mirtarbase_hsa_7.0.xgmml.zip](https://ndownloader.figshare.com/files/21623595?private_link=1e4ab8399f3e67474fc9) | Homo sapiens (hsa) | 502,652 | 2,595 | 15,038 | NCBI Gene, Ensembl, HGNC | 
+| [mirtarbase_mmu_7.0.xgmml.zip](https://ndownloader.figshare.com/files/21623601?private_link=1e4ab8399f3e67474fc9) | Mus musculus (mmu) | 49,830 | 958 | 7,233 | NCBI Gene, Ensembl | 
+| [mirtarbase_rno_7.0.xgmml.zip](https://ndownloader.figshare.com/files/21623604?private_link=1e4ab8399f3e67474fc9) | Rattus norvegicus (rno) | 632 | 179 | 344 | NCBI Gene, Ensembl | 
+| [mirtarbase_dre_7.0.xgmml.zip](https://ndownloader.figshare.com/files/21623607?private_link=1e4ab8399f3e67474fc9) | Danio rerio (dre) | 152 | 45 | 107 | NCBI Gene, Ensembl | 
