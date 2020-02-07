@@ -15,5 +15,5 @@ The database content was downloaded from [here](http://encodenets.gersteinlab.or
 
 | **Linkset** | **Species** | **Interactions** | **TFs** | **Target genes** | **Supported gene identifiers** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [encode-proximal-2012.xgmml.zip](https://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/encode/encode-proximal-2012.xgmml.zip) | Homo sapiens (hsa) | 24,111 | 115 | 8,253 | NCBI Gene, Ensembl, UniProt, HGNC | 
-| [encode-distal-2012.xgmml.zip](https://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/encode/encode-distal-2012.xgmml.zip) | Homo sapiens (hsa) | 18,240 | 109 | 2093 | NCBI Gene, Ensembl, UniProt, HGNC | 
+| [encode-proximal-2012.xgmml.zip](https://ndownloader.figshare.com/files/21623679?private_link=8b198bb2aca18197d9a5) | Homo sapiens (hsa) | 24,111 | 115 | 8,253 | NCBI Gene, Ensembl, UniProt, HGNC | 
+| [encode-distal-2012.xgmml.zip](https://ndownloader.figshare.com/files/21623676?private_link=8b198bb2aca18197d9a5) | Homo sapiens (hsa) | 18,240 | 109 | 2093 | NCBI Gene, Ensembl, UniProt, HGNC | 
