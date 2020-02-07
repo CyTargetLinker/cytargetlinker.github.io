@@ -15,6 +15,6 @@ The database content was downloaded from [here](ftp://mirbase.org/pub/mirbase/21
 
 | **Linkset** | **Species** | **Interactions** | **Primary transcripts** | **microRNAs** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [mirbase-hsa-v21.xgmml.zip](http://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/mirbase/mirbase-hsa-v21.xgmml.zip) | Homo sapiens (hsa) | 1,881 | 2,813 | 2,813 |
-| [mirbase-mmu-v21.xgmml.zip](http://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/mirbase/mirbase-mmu-v21.xgmml.zip) | Mus musculus (mmu) | 1,187 | 2,045 | 2,045 | 
-| [mirbase-rno-v21.xgmml.zip](http://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/mirbase/mirbase-rno-v21.xgmml.zip) | Rattus norvegicus (rno) | 486 | 832 | 832 |
+| [mirbase-hsa-v21.xgmml.zip](https://ndownloader.figshare.com/files/21623640?private_link=098ecbe48b6fb7a8766f) | Homo sapiens (hsa) | 1,881 | 2,813 | 2,813 |
+| [mirbase-mmu-v21.xgmml.zip](https://ndownloader.figshare.com/files/21623646?private_link=098ecbe48b6fb7a8766f) | Mus musculus (mmu) | 1,187 | 2,045 | 2,045 | 
+| [mirbase-rno-v21.xgmml.zip](https://ndownloader.figshare.com/files/21623649?private_link=098ecbe48b6fb7a8766f) | Rattus norvegicus (rno) | 486 | 832 | 832 |
