@@ -15,5 +15,5 @@ The database content was downloaded from [here](http://www.cuilab.cn/transmir). 
 
 | **Linkset** | **Species** | **Interactions** | **microRNAs** | **Target genes** | **Supported gene identifiers** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [TransmiR-hsa-1.2.xgmml.zip](http://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/transmir/TransmiR-hsa-1.2.xgmml.zip) | Homo sapiens (hsa) | 403 | 121 | 144 | NCBI Gene, Ensembl, UniProt | 
-| [TransmiR-mmu-1.2.xgmml.zip](http://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/transmir/TransmiR-mmu-1.2.xgmml.zip) | Mus musculus (mmu) | 28 | 15 | 27 | NCBI Gene, Ensembl, UniProt | 
+| [TransmiR-hsa-1.2.xgmml.zip](https://ndownloader.figshare.com/files/21623628?private_link=1dd1f5d72643b17d51a6) | Homo sapiens (hsa) | 403 | 121 | 144 | NCBI Gene, Ensembl, UniProt | 
+| [TransmiR-mmu-1.2.xgmml.zip](https://ndownloader.figshare.com/files/21623631?private_link=1dd1f5d72643b17d51a6) | Mus musculus (mmu) | 28 | 15 | 27 | NCBI Gene, Ensembl, UniProt | 
