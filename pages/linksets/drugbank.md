@@ -17,5 +17,5 @@ The linksets were created with the [linksetCreator v.2.0](https://github.com/CyT
 
 | **Linkset** | **Selection** | **Species** | **Interactions** | **Drugs** | **Target genes** | **Supported gene identifiers** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [drugbank4-2.xgmml.zip](https://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/drugbank/drugbank4-2.xgmml.zip) | DrugBank all drugs | Homo sapiens (hsa) | |  |  | NCBI Gene, Ensembl, HGNC | 
-| [drugbank4-2-approved.xgmml.zip](https://projects.bigcat.unimaas.nl/data/cytargetlinker/linksets/drugbank/drugbank4-2-approved.xgmml.zip) | DrugBank approved drugs | Homo sapiens (hsa) | |  |  | NCBI Gene, Ensembl, HGNC | 
+| [drugbank4-2.xgmml.zip](https://ndownloader.figshare.com/files/21623682?private_link=32aae0822ffdd1f5660b) | DrugBank all drugs | Homo sapiens (hsa) | |  |  | NCBI Gene, Ensembl, HGNC | 
+| [drugbank4-2-approved.xgmml.zip](https://ndownloader.figshare.com/files/21623685?private_link=32aae0822ffdd1f5660b) | DrugBank approved drugs | Homo sapiens (hsa) | |  |  | NCBI Gene, Ensembl, HGNC | 
