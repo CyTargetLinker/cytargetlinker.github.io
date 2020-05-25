@@ -12,7 +12,7 @@ miRTarBase license: [LICENSE](http://mirtarbase.mbc.nctu.edu.tw/cache/download/L
 
 ### miRTarBase release 8.0
 
-The database content was downloaded from [here.](http://mirtarbase.mbc.nctu.edu.tw/php/download.php?ver=7.0&opt=show)
+The database content was downloaded from [here.](http://mirtarbase.cuhk.edu.cn/php/download.php?ver=8.0&opt=show)
 The linksets were created with the [linksetCreator v.2.0](https://github.com/CyTargetLinker/linksetCreator). Don’t forget to first unzip all linkset files that you want to use and put them in the same folder.
 
 | **Linkset** | **Species** | **Interactions** | **microRNAs** | **Target genes** | **Supported gene identifiers** |
