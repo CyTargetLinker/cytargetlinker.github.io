@@ -10,6 +10,18 @@ miRTarBase license: [LICENSE](http://mirtarbase.mbc.nctu.edu.tw/cache/download/L
 
 ---
 
+### miRTarBase release 8.0
+
+The database content was downloaded from [here.](http://mirtarbase.mbc.nctu.edu.tw/php/download.php?ver=7.0&opt=show)
+The linksets were created with the [linksetCreator v.2.0](https://github.com/CyTargetLinker/linksetCreator). Don’t forget to first unzip all linkset files that you want to use and put them in the same folder.
+
+| **Linkset** | **Species** | **Interactions** | **microRNAs** | **Target genes** | **Supported gene identifiers** |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [mirtarbase_hsa_8.0.xgmml.zip](https://ndownloader.figshare.com/files/22791341) | Homo sapiens (hsa) | 502,652 | 2,595 | 15,038 | NCBI Gene, Ensembl, HGNC | 
+| [mirtarbase_mmu_8.0.xgmml.zip](https://ndownloader.figshare.com/files/22791344) | Mus musculus (mmu) | 49,830 | 958 | 7,233 | NCBI Gene, Ensembl | 
+
+---
+
 ### miRTarBase release 7.0
 
 The database content was downloaded from [here.](http://mirtarbase.mbc.nctu.edu.tw/php/download.php?ver=7.0&opt=show)
