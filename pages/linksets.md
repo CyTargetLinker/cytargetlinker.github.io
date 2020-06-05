@@ -5,6 +5,7 @@ We provide a number of different **linksets** useful for different types of netw
 * TF-related linksets
 * Drug-related linksets
 * Pathway-related linksets
+* Disease-related linksets
 
 **_Note_**: Originally, we focused on regulatory interactions but people have been using CyTargetLinker in a lot of different ways, so we decided to rename our RegINs to linksets.
 
@@ -79,4 +80,12 @@ If you have any questions, please [contact us](pages/contact).
 </tr>
 </table>
 
-
+### Disease-related linksets
+<table>
+<tr>
+<td><b>Database</b></td><td><b>Interaction Types</b></td><td><b>Linksets</b></td>
+</tr>
+<tr>
+<td>Rare genetic diseases</td><td>gene – disease associations</td><td><a href="linksets/gene-rare_diseases-provenance">Linksets</a></td>
+</tr>
+</table>
