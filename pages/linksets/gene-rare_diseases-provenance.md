@@ -13,5 +13,5 @@ Gene-Rare Disease Association Provenance - A dataset for bioinformatics applicat
 The database content was retrieved through the [SPARQL endpoint](https://www.ebi.ac.uk/rdf/services/sparql). Don’t forget to first unzip all link set files that you want to use and put them in the same folder.
 
 | Linkset | Date | Linkset version | Species | Supported identifiers |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Gene-RD-Prov_v2.xgmml](https://ndownloader.figshare.com/files/21935424) | 2020-06-05 | Gene-RD-provenance_v2) | Homo sapiens (hsa) | OMIM, Ensembl, HGNC, PMID |
+| :---: | :---: | :---: | :---: | :---: | 
+| [Gene-RD-Prov_v2.xgmml](https://ndownloader.figshare.com/files/21935424) | 2020-06-05 | Gene-RD-provenance_v2 | Homo sapiens (hsa) | OMIM, Ensembl, HGNC, PMID |
