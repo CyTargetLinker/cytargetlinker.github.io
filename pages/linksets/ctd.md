@@ -15,6 +15,6 @@ doi: [10.1093/nar/gkaa891](http://doi.org/10.1093/nar/gkaa891)
 
 The database content was retrieved from the [data download page](http://ctdbase.org/downloads/). Don’t forget to first unzip all link set files that you want to use and put them in the same folder.
 
-| Linkset | CTD version | Species | Interactions | Chemicals | Proteins | Supported gene identifiers |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-|  | 2021-01-06 | Homo sapiens (hsa) |  |  |  | UniProt, NCBI Gene, Ensembl, HGNC |
+| Linkset | CTD version | Species | Interactions | Chemicals | Supported chemical identifiers | Proteins | Supported protein identifiers |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [CTD_ChemGene_Jan2021.xgmml](https://ndownloader.figshare.com/files/26231723?private_link=e9263f8de7eea111c72d) | 2021-01-06 | Homo sapiens (hsa) | 105,327 | 9,239 | ChEBI, ChEMBL, Wikidata, CAS | 10,011 | UniProt, NCBI Gene, Ensembl, HGNC |
