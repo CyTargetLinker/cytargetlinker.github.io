@@ -9,6 +9,15 @@ WikiPathways website: [www.wikipathways.org](https://www.wikipathways.org/)<br/>
 WikiPathways license: [license](https://www.wikipathways.org/index.php/WikiPathways:License_Terms)
 
 ---
+### WikiPathways release 2021-01-10
+
+The database content was retrieved from [here](http://data.wikipathways.org/20210110/gpml/wikipathways-20210110-gpml-Homo_sapiens.zip). Don’t forget to first unzip all linkset files that you want to use and put them in the same folder.
+
+| Linkset | Species | Interactions | Pathways | Genes | Supported gene identifiers |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [wikipathways-hsa-20210110.zip](placeholder-link) | Homo sapiens (hsa) | xx | xx | xx | Ensembl, NCBI Gene, HGNC |
+
+---
 
 ### WikiPathways release 2019-06-10
 
