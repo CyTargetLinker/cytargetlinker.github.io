@@ -68,6 +68,9 @@ If you have any questions, please [contact us](pages/contact).
 <tr>
 <td>ChEMBL</td><td>compound – protein target</td><td><a href="linksets/chembl">Linksets</a></td>
 </tr>
+<tr>
+<td>CTD</td><td>compound – protein target</td><td><a href="linksets/ctd">Linksets</a></td>
+</tr>
 </table>
 
 ### Pathway-related linksets
