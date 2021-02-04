@@ -15,7 +15,8 @@ The database content was retrieved through the [WikiPathways SPARQL endpoint](ht
 
 | Linkset | Species | Interactions | Pathways | Genes | Supported gene identifiers |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [wikipathways-hsa-20210110.zip](placeholder-link) | Homo sapiens (hsa) | 36608 | 1220 | 8131 | Ensembl, NCBI Gene, HGNC |
+| [wikipathways-hsa-20210110.zip](placeholder-link) | Homo sapiens (hsa) - curated collection |  |  |  | Ensembl, NCBI Gene, HGNC |
+| [wikipathways-hsa-20210110.zip](placeholder-link) | Homo sapiens (hsa) - Reactome collection | |  |  | Ensembl, NCBI Gene, HGNC |
 
 ---
 
