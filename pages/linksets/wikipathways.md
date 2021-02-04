@@ -1,9 +1,9 @@
 ## WikiPathways linksets
 
-**WikiPathways: a multifaceted pathway database bridging metabolomics to other omics research.<br/>**
-Slenter DN, Kutmon M, Hanspers K, Riutta A, Windsor J, Nunes N, Mélius J, Cirillo E, Coort SL, Digles D, Ehrhart F, Giesbertz P, Kalafati M, Martens M, Miller R, Nishida K, Rieswijk L, Waagmeester A, Eijssen LMT, Evelo CT, Pico AR, Willighagen EL.<br/>
-Nucleic Acids Res. 2018 Jan 4;46(D1):D661-D667.<br/>
-doi: [10.1093/nar/gkx1064](http://doi.org/10.1093/nar/gkx1064)
+**WikiPathways: connecting communities.<br/>**
+Martens M, Ammar A, Riutta A, Waagmeester A, Slenter DN, Hanspers K, Miller RA, Digles D, Lopes EN, Ehrhart F, Dupuis LJ, Winckers LA, Coort SL, Willighagen EL, Evelo CT, Pico AR, Kutmon M.<br/>
+Nucleic Acids Res. 2021 Jan 8;49(D1):D613-D621.<br/>
+doi: [10.1093/nar/gkaa1024](http://doi.org/10.1093/nar/gkaa1024)
 
 WikiPathways website: [www.wikipathways.org](https://www.wikipathways.org/)<br/>
 WikiPathways license: [license](https://www.wikipathways.org/index.php/WikiPathways:License_Terms)
