@@ -9,7 +9,8 @@ doi: [10.1093/nar/gkaa891](http://doi.org/10.1093/nar/gkaa891)
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **Legal notice**: [License / Terms of Use](http://ctdbase.org/about/legal.jsp) ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 
-This work was supported by the funding from the European Union’s Horizon 2020 research and innovation programme under the [EJP-RD](https://www.ejprarediseases.org/) COFUND-EJP N° 825575.
+*The linkset creation was supported by the funding from the European Union's Horizon 2020 research and innovation programme under the [EJP-RD](https://www.ejprarediseases.org/) COFUND-EJP N825575.*
+
 ---
 
 ### CTD data release 6 Jan 2021
