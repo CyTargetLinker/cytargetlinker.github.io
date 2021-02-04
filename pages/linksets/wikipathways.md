@@ -11,7 +11,7 @@ WikiPathways license: [license](https://www.wikipathways.org/index.php/WikiPathw
 ---
 ### WikiPathways release 2021-01-10
 
-The database content was retrieved from [here](http://data.wikipathways.org/20210110/gpml/wikipathways-20210110-gpml-Homo_sapiens.zip). Don’t forget to first unzip all linkset files that you want to use and put them in the same folder.
+The database content was retrieved through the [WikiPathways SPARQL endpoint](http://sparql.wikipathways.org/) using the this [query](https://github.com/wikipathways/SPARQLQueries/blob/master/F.%20Datadump/CyTargetLinkerLinksetInput.rq).
 
 | Linkset | Species | Interactions | Pathways | Genes | Supported gene identifiers |
 | :---: | :---: | :---: | :---: | :---: | :---: |
