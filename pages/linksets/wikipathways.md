@@ -11,7 +11,7 @@ WikiPathways license: [license](https://www.wikipathways.org/index.php/WikiPathw
 ---
 ### WikiPathways release 2021-01-10
 
-The database content was retrieved through the [WikiPathways SPARQL endpoint](http://sparql.wikipathways.org/) using the this [query](https://github.com/wikipathways/SPARQLQueries/blob/master/F.%20Datadump/CyTargetLinkerLinksetInput.rq).
+The database content was retrieved through the [WikiPathways SPARQL endpoint](http://sparql.wikipathways.org/) using the relevant [queries](https://github.com/wikipathways/SPARQLQueries/tree/master/F.%20Datadump).
 
 | Linkset | Species | Interactions | Pathways | Genes | Supported gene identifiers |
 | :---: | :---: | :---: | :---: | :---: | :---: |
