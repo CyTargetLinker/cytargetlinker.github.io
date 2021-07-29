@@ -15,8 +15,8 @@ The database content was retrieved through the [WikiPathways SPARQL endpoint](ht
 
 | Linkset | Species | Interactions | Pathways | Genes | Supported gene identifiers |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [wikipathways-hsa-curated-20210110.xgmml](https://zenodo.org/api/files/f4f887fb-1bde-4337-8529-121488e7ffa3/wikipathways-hsa-20210110-curated.xgmml?versionId=de378eef-93c5-4f58-a3f6-d6cf6601591a) | Homo sapiens (hsa) - curated collection | 29,706 | 882 | 8,724 | Ensembl, NCBI Gene, HGNC |
-| [wikipathways-hsa-Reactome-20210110.xgmml](https://zenodo.org/api/files/f4f887fb-1bde-4337-8529-121488e7ffa3/wikipathways-hsa-20210110-reactome.xgmml?versionId=9f9256f1-168a-4fd4-a1bb-8d43f82c494f) | Homo sapiens (hsa) - Reactome collection | 37,760 | 523 | 10,366 | Ensembl, NCBI Gene, HGNC |
+| [wikipathways-hsa-curated-20210110.xgmml](https://zenodo.org/record/4500958/files/wikipathways-hsa-20210110-curated.xgmml?download=1) | Homo sapiens (hsa) - curated collection | 29,706 | 882 | 8,724 | Ensembl, NCBI Gene, HGNC |
+| [wikipathways-hsa-Reactome-20210110.xgmml](https://zenodo.org/record/4500958/files/wikipathways-hsa-20210110-reactome.xgmml?download=1) | Homo sapiens (hsa) - Reactome collection | 37,760 | 523 | 10,366 | Ensembl, NCBI Gene, HGNC |
 
 ---
 
