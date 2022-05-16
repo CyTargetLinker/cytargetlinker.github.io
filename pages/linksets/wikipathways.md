@@ -9,6 +9,15 @@ WikiPathways website: [www.wikipathways.org](https://www.wikipathways.org/)<br/>
 WikiPathways license: [license](https://www.wikipathways.org/index.php/WikiPathways:License_Terms)
 
 ---
+### WikiPathways release 2022-05-10
+The database content was retrieved through the [WikiPathways SPARQL endpoint](http://sparql.wikipathways.org/) using the relevant [queries](https://github.com/wikipathways/SPARQLQueries/tree/master/F.%20Datadump). Both linksets can be downloaded from [Figshare](https://doi.org/10.6084/m9.figshare.19753630.v1).
+
+| Linkset | Species | Interactions | Pathways | Genes | Supported gene identifiers |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [wikipathways-20220511-hsa-WP.xgmml](https://figshare.com/ndownloader/files/35098210) | Homo sapiens (hsa) - curated collection | 31,871 | 751 | 8,254 | Ensembl, NCBI Gene, HGNC |
+| [wikipathways-20220511-hsa-REACTOME.xgmml](https://figshare.com/ndownloader/files/35098207) | Homo sapiens (hsa) - Reactome collection | 37,300 | 511 | 10,311 | Ensembl, NCBI Gene, HGNC |
+
+---
 ### WikiPathways release 2021-01-10
 
 The database content was retrieved through the [WikiPathways SPARQL endpoint](http://sparql.wikipathways.org/) using the relevant [queries](https://github.com/wikipathways/SPARQLQueries/tree/master/F.%20Datadump).
