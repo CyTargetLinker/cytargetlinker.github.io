@@ -11,7 +11,7 @@ We provide a number of different **linksets** useful for different types of netw
 
 If you are missing a link set for a specific database, species or use case, please contact us and we will try to create the network files.
 
-**Do you want to create your own link set?** [Find our more](pages/create-link-sets). <br/>
+**Do you want to create your own link set?** [Find our more](https://github.com/CyTargetLinker/linksetCreator). <br/>
 If you have any questions, please [contact us](contact).
 
 ***
