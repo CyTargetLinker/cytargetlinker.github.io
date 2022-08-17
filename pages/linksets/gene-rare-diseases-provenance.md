@@ -3,8 +3,7 @@
 **The Gene-Rare Disease-Provenance Linksets<br/>**
 This dataset provides a CyTargetlinker compatible linkset to link monogenic, rare diseases (annotated with their OMIM identifier) with a known genetic cause (annotated with their HGNC, Ensembl identifiers) supplemented with manually extracted provenance of both the disease and the discovery of the underlying genetic cause of the disease (PMID).
 
-Gene-Rare Disease Association Provenance - A dataset for bioinformatics application. Friederike Ehrhart, Egon L. Willighagen, Martina Kutmon, Max van Hoften, Leopold G.M. Curfs, Chris T. Evelo.<br/>
-(submitted 2020)
+Citation: Ehrhart F, Willighagen EL, Kutmon M, van Hoften M, Curfs LMG, Evelo CT. A resource to explore the discovery of rare diseases and their causative genes. Sci Data. 2021 May 4;8(1):124. [doi: 10.1038/s41597-021-00905-y](https://doi.org/10.1038/s41597-021-00905-y). PMID: 33947870; PMCID: PMC8096966. <br/>
 
 ---
 
