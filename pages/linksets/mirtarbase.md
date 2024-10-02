@@ -29,7 +29,7 @@ The linksets were created with the [linksetCreator v.2.0](https://github.com/CyT
 
 | **Linkset** | **Species** | **Interactions** | **microRNAs** | **Target genes** | **Supported gene identifiers** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [mirtarbase_hsa_8.0.xgmml.zip](https://zenodo.org/records/13789211/files/mirtarbase_hsa_9.0.xgmml?download=1) | Homo sapiens (hsa) | 502,652 | 2,595 | 15,038 | NCBI Gene, Ensembl, HGNC | 
+| [mirtarbase_hsa_8.0.xgmml.zip](https://ndownloader.figshare.com/files/22791341?private_link=b2546e0100ab03fb520c) | Homo sapiens (hsa) | 502,652 | 2,595 | 15,038 | NCBI Gene, Ensembl, HGNC | 
 | [mirtarbase_mmu_8.0.xgmml.zip](https://ndownloader.figshare.com/files/22791344?private_link=b2546e0100ab03fb520c) | Mus musculus (mmu) | 49,830 | 958 | 7,233 | NCBI Gene, Ensembl | 
 
 ---
