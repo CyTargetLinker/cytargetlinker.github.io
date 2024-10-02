@@ -15,4 +15,4 @@ If you have any feedback for the website, want to request or provide a new links
 * Provide new linksets: create a pull request for changes to the linkset page, and we will review it!
 
 ### Contact
-CyTargetLinker was maintained by [Martina Summer-Kutmon](https://github.com/mkutmon) at Maastricht University.
+CyTargetLinker is maintained by [Martina Summer-Kutmon](https://github.com/mkutmon) at Maastricht University.
