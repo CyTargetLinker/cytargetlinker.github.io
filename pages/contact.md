@@ -16,11 +16,6 @@ Add an [issue on GitHub](https://github.com/CyTargetLinker/cytargetlinker/issues
 
 ***
 
-## FAQ
-Frequently answered questions will come soon.
-
-***
-
 ## Developer
 <table border="0">
 <tr>
