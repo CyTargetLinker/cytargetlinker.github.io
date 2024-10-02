@@ -51,7 +51,7 @@ Frequently answered questions will come soon.
 <br/> Assistant professor at the Translational Genomics department, Maastricht University
 
 * **Youp Hendriks**
-<br/> Linksets
+<br/> Linksets 
 <br/> Scientific programmer at the Translational Genomics department, Maastricht University
 
 ***
