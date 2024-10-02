@@ -16,6 +16,11 @@ Add an [issue on GitHub](https://github.com/CyTargetLinker/cytargetlinker/issues
 
 ***
 
+## Linkset request
+If you want to request or provide more linksets, post them in our [discussions](https://github.com/CyTargetLinker/cytargetlinker.github.io/discussions) in our website repository. 
+
+***
+
 ## Developer
 <table border="0">
 <tr>
