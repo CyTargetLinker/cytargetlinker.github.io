@@ -21,22 +21,14 @@ Frequently answered questions will come soon.
 
 ***
 
-## Team
+## Developer
 <table border="0">
 <tr>
 <td><img src="../images/Tina.jpg"/></td>
 <td>
 <b><a href="https://www.linkedin.com/in/mkutmon/" target="_blank">Martina Summer-Kutmon</a></b>
 <br/>Main developer of CyTargetLinker
-<br/> Assistant professor at the Department of Bioinformatics (<a href="https://www.bigcat.unimaas.nl/" target="_blank">BiGCaT</a>) and the Maastricht Centre for Systems Biology (<a href="https://www.maastrichtuniversity.nl/research/maastricht-centre-systems-biology" target="_blank">MaCSBio</a>), Maastricht University
-</td>
-</tr>
-<tr>
-<td><img src="../images/Susan.jpg"/></td>
-<td>
-<b><a href="https://www.linkedin.com/in/susan-steinbusch-coort-6a47542/" target="_blank">Susan Steinbusch-Coort</a></b>
-<br/> Support and project design
-<br/> Assistant professor at the Department of Bioinformatics (<a href="https://www.bigcat.unimaas.nl/" target="_blank">BiGCaT</a>), Maastricht University
+<br/> Assistant professor at the Maastricht Centre for Systems Biology (<a href="https://www.maastrichtuniversity.nl/research/maastricht-centre-systems-biology" target="_blank">MaCSBio</a>), Maastricht University
 </td>
 </tr>
 </table>
@@ -44,8 +36,11 @@ Frequently answered questions will come soon.
 
 ***
 
+## Contributors
 
-## Link set development
+* **Susan Steinbusch-Coort**
+<br/> Support and project design, feature requests, linksets
+<br/> Associate professor at the Translational Genomics department, Maastricht University
 
 * **Friederike Ehrhart**
 <br/> Disease-gene associations for rare diseases (link set)
