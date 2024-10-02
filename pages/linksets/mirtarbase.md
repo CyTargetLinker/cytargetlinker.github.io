@@ -18,7 +18,7 @@ The linksets were created with the [linksetCreator v.2.0](https://github.com/CyT
 
 | **Linkset** | **Species** | **Interactions** | **microRNAs** | **Target genes** | **Supported gene identifiers** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [mirtarbase_hsa_9.0.xgmml.zip](https://zenodo.org/records/13789211/files/mirtarbase_hsa_9.0.xgmml?download=1) | Homo sapiens (hsa) | 502,652 | 2,595 | 15,038 | NCBI Gene, Ensembl, HGNC | 
+| [mirtarbase_hsa_9.0.xgmml.zip](https://zenodo.org/records/13789211/files/mirtarbase_hsa_9.0.xgmml?download=1) | Homo sapiens (hsa) | 957,040 | 2,678 | 15,364 | NCBI Gene, Ensembl, HGNC | 
 
 ---
 
