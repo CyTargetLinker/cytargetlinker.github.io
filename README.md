@@ -8,7 +8,7 @@ CytargetLinker is a bioinformatics tool designed to extend molecular networks wi
 
 CyTargetLinker is implemented as an app for the network analysis and visualization tool [Cytoscape](https://cytoscape.org/). It is implemented in Java and you can find the source code [here](https://github.com/cytargetlinker/cytargetlinker). 
 
-### How to get involved
+### 👉 How to get involved
 If you have any feedback for the website, want to request or provide a new linkset, or want to get involved in another way, do not hesitate to reach out. 
 
 * Feedback / Requests: post your ideas in our [discussions](https://github.com/CyTargetLinker/cytargetlinker.github.io/discussions).
