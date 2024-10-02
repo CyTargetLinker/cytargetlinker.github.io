@@ -14,5 +14,5 @@ If you have any feedback for the website, want to request or provide a new links
 * Feedback / Requests: post your ideas in our [discussions](https://github.com/CyTargetLinker/cytargetlinker.github.io/discussions).
 * Provide new linksets: create a pull request for changes to the linkset page, and we will review it!
 
-### Contact
+### 💬 Contact
 CyTargetLinker is maintained by [Martina Summer-Kutmon](https://github.com/mkutmon) at Maastricht University.
