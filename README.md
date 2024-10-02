@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## CyTargetLinker website repo
 
-You can use the [editor on GitHub](https://github.com/CyTargetLinker/gh-pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the official website repository for CytargetLinker! This website serves as a hub for download links, tutorials, updates, and other resources related to the CytargetLinker app for Cytoscape. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About CyTargetLinker
 
-### Markdown
+CytargetLinker is a bioinformatics tool designed to extend molecular networks with regulatory information, enabling researchers to link gene expression and other omics data with known regulatory interactions such as transcription factors, miRNAs, and drugs. By integrating various interaction types from external databases, CytargetLinker allows users to visualize, explore, and analyze complex regulatory networks in combination with their data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CyTargetLinker is implemented as an app for the network analysis and visualization tool [Cytoscape](https://cytoscape.org/). It is implemented in Java and you can find the source code [here](https://github.com/cytargetlinker/cytargetlinker). 
 
-```markdown
-Syntax highlighted code block
+### How to get involved
+If you have any feedback for the website, want to request or provide a new linkset, or want to get involved in another way, do not hesitate to reach out. 
 
-# Header 1
-## Header 2
-### Header 3
+* Feedback / Requests: post your ideas in our [discussions](https://github.com/CyTargetLinker/cytargetlinker.github.io/discussions).
+* Provide new linkset: create a pull request for changes to the linkset page, and we will review it!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CyTargetLinker/gh-pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+CyTargetLinker was developed by [Martina Summer-Kutmon](https://github.com/mkutmon) at Maastricht University.
