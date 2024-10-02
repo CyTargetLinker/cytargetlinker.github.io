@@ -37,6 +37,6 @@ Please have a look at our tutorials to get a better understanding on how CyTarge
 <td><a href="https://github.com/CyTargetLinker/cytargetlinker-automation/tree/master/R-automation/UseCase3">Automation Tutorial 3</a></td><td>R tutorial to extend author nodes with their publications and journal information</td>
 </tr>
 <tr>
-<td><a href="https://github.com/CyTargetLinker/example-scripts/tree/main/python/WikiPathways">Automation Tutorial 4</a></td><td>Simple python script to extend a WikiPathways pathway with pathway information</td>
+<td><a href="https://github.com/CyTargetLinker/cytargetlinker-automation/tree/master/Python-examples/WikiPathways">Automation Tutorial 4</a></td><td>Simple python script to extend a WikiPathways pathway with pathway information</td>
 </tr>
 </table>
