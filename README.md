@@ -12,7 +12,7 @@ CyTargetLinker is implemented as an app for the network analysis and visualizati
 If you have any feedback for the website, want to request or provide a new linkset, or want to get involved in another way, do not hesitate to reach out. 
 
 * Feedback / Requests: post your ideas in our [discussions](https://github.com/CyTargetLinker/cytargetlinker.github.io/discussions).
-* Provide new linkset: create a pull request for changes to the linkset page, and we will review it!
+* Provide new linksets: create a pull request for changes to the linkset page, and we will review it!
 
 ### Contact
-CyTargetLinker was developed by [Martina Summer-Kutmon](https://github.com/mkutmon) at Maastricht University.
+CyTargetLinker was maintained by [Martina Summer-Kutmon](https://github.com/mkutmon) at Maastricht University.
