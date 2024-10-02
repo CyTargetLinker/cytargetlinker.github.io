@@ -44,12 +44,15 @@ Frequently answered questions will come soon.
 
 * **Friederike Ehrhart**
 <br/> Disease-gene associations for rare diseases (link set)
-<br/> Assistant professor at the Department of Bioinformatics ([BiGCaT](https://www.bigcat.unimaas.nl/)), Maastricht University
+<br/> Assistant professor at the Translational Genomics department, Maastricht University
 
 * **Egon Willighagen**
 <br/> Small molecule-protein interactions (link set)
-<br/> Assistant professor at the Department of Bioinformatics ([BiGCaT](https://www.bigcat.unimaas.nl/)), Maastricht University
+<br/> Assistant professor at the Translational Genomics department, Maastricht University
 
+* **Youp Hendriks**
+<br/> Linksets
+<br/> Scientific programmer at the Translational Genomics department, Maastricht University
 
 ***
 
