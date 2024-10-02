@@ -7,6 +7,19 @@ doi: [10.1093/nar/gkq1107](http://dx.doi.org/10.1093/nar/gkq1107)
 
 miRTarBase website: [https://mirtarbase.cuhk.edu.cn](https://mirtarbase.cuhk.edu.cn)<br/>
 miRTarBase license: [LICENSE](https://mirtarbase.cuhk.edu.cn/~miRTarBase/miRTarBase_2022/cache/download/LICENSE)
+
+
+---
+
+### miRTarBase release 9.0
+
+The database content was downloaded from [here.](http://mirtarbase.cuhk.edu.cn/php/download.php?ver=9.0&opt=show)
+The linksets were created with the [linksetCreator v.2.0](https://github.com/CyTargetLinker/linksetCreator). Don’t forget to first unzip all linkset files that you want to use and put them in the same folder.
+
+| **Linkset** | **Species** | **Interactions** | **microRNAs** | **Target genes** | **Supported gene identifiers** |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [mirtarbase_hsa_9.0.xgmml.zip](https://zenodo.org/records/13789211/files/mirtarbase_hsa_9.0.xgmml?download=1) | Homo sapiens (hsa) | 502,652 | 2,595 | 15,038 | NCBI Gene, Ensembl, HGNC | 
+
 ---
 
 ### miRTarBase release 8.0
