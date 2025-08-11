@@ -90,7 +90,10 @@ If you have any questions, please [contact us](contact).
 <td><b>Database</b></td><td><b>Interaction Types</b></td><td><b>Linksets</b></td>
 </tr>
 <tr>
-<td>Rare genetic diseases</td><td>gene – disease associations</td><td><a href="linksets/gene-rare-diseases-provenance">Linksets</a></td>
+<td>Rare genetic diseases from OMIM</td><td>gene – disease associations</td><td><a href="linksets/gene-rare-diseases-provenance">Linksets</a></td>
+</tr>
+  <tr>
+<td>Rare genetic diseases from Orphanet</td><td>gene – disease associations</td><td><a href="linksets/orphanet">Linksets</a></td>
 </tr>
 </table>
 
