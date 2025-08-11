@@ -100,6 +100,6 @@ If you have any questions, please [contact us](contact).
 <td><b>Database</b></td><td><b>Interaction Types</b></td><td><b>Linksets</b></td>
 </tr>
 <tr>
-<td>Complexes</td><td>complex - component associations</td><td><a href="linksets/ComplexPortal">Linksets</a></td>
+<td>Complexes</td><td>complex - component associations</td><td><a href="linksets/complexportal">Linksets</a></td>
 </tr>
 </table>
