@@ -11,4 +11,4 @@ The database content was retrieved through accessing the ftp servers.
 
 | Linkset | Date | Linkset version | Species | Supported identifiers |
 | :---: | :---: | :---: | :---: | :---: | 
-| [ComplexPortal-v07.25.xgmml](https://ndownloader.figshare.com/files/29881307) | 2025-08-11 | ComplexPortal-v07.25 | Homo sapiens (hsa) | CPX, UniProt/ChEBI |
+| [ComplexPortal-v07.25.xgmml](https://figshare.com/ndownloader/files/57094985) | 2025-08-11 | ComplexPortal-v07.25 | Homo sapiens (hsa) | CPX, UniProt/ChEBI |
