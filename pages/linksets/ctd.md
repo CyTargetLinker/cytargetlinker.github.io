@@ -2,10 +2,9 @@
 
 **CTDbase website**: [www.ctdbase.org/](http://ctdbase.org/)<br/>
 
-**The Comparative Toxicogenomics Database: update 2021.<br/>**
-Davis AP, Grondin CJ, Johnson RJ, Sciaky D, Wiegers J, Wiegers TC, Mattingly CJ.<br/>
-Nucleic Acids Res. 2021 Jan 8;49(D1):D1138-D1143.<br/>
-doi: [10.1093/nar/gkaa891](http://doi.org/10.1093/nar/gkaa891)
+**Comparative Toxicogenomics Database's 20th anniversary: update 2025.<br/>**
+Davis AP, Wiegers TC, Sciaky D, et al. Comparative Toxicogenomics Database's 20th anniversary: update 2025. Nucleic Acids Res. 2025;53(D1):D1328-D1334.<br/>
+doi: [10.1093/nar/gkae883](https://doi.org/10.1093/nar/gkae883)
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **Legal notice**: [License / Terms of Use](http://ctdbase.org/about/legal.jsp) ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 
