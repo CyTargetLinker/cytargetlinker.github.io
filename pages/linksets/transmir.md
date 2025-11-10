@@ -11,12 +11,12 @@ TransmiR website: [http://www.cuilab.cn/transmir](http://www.cuilab.cn/transmir)
 
 ### TransmiR release 3.0
 
-The database content was downloaded from [here](http://www.cuilab.cn/transmir). Don’t forget to first unzip all linkset files that you want to use and put them in the same folder.
+The database content was downloaded from [here](http://www.cuilab.cn/transmir). Don’t forget to first unzip all linkset files that you want to use and put them in the same folder. The linksets only includes the literature reviewed interactions.
 
 | **Linkset** | **Species** | **Interactions** | **microRNAs** | **Target genes** | **Supported gene identifiers** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [TransmiR-hsa-3.0.xgmml.zip]() | Homo sapiens (hsa) | x | x | x | NCBI Gene, Ensembl, UniProt | 
-| [TransmiR-mmu-3.0.xgmml.zip]() | Mus musculus (mmu) | x | x | x | NCBI Gene, Ensembl, UniProt | 
+| [TransmiR-hsa-3.0.xgmml.zip](https://figshare.com/ndownloader/files/59091575) | Homo sapiens (hsa) | 3622 | 417 | 442 | HGNC, NCBI Gene, Ensembl, UniProt | 
+| [TransmiR-mmu-3.0.xgmml.zip](https://figshare.com/ndownloader/files/59290223) | Mus musculus (mmu) | 947 | 224 | 191 | MGI, NCBI Gene, Ensembl, UniProt | 
 
 ### TransmiR release 1.2
 
