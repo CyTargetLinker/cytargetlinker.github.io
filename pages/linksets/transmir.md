@@ -1,9 +1,9 @@
 ## TransmiR linksets
 
-**TransmiR: a transcription factor–microRNA regulation database.<br/>**
-Juan Wang, Ming Lu, Chengxiang Qiu and Qinghua Cui.<br/>
-Nucl. Acids Res. (2010) 38 (suppl 1): D119-D122.<br/>
-doi: [10.1093/nar/gkp803](http://doi.org/10.1093/nar/gkp803)
+**TransmiR v3.0: an updated transcription factor-microRNA regulation database.<br/>**
+Maodi Liang, Chenhao Zhang, Yang Yang, Qinghua Cui, Jun Zhang, Chunmei Cui.<br/>
+Nucleic Acids Research, Volume 53, Issue D1, 6 January 2025, Pages D318–D323.<br/>
+doi: [10.1093/nar/gkae1081](https://doi.org/10.1093/nar/gkae1081)
 
 TransmiR website: [http://www.cuilab.cn/transmir](http://www.cuilab.cn/transmir)
 
