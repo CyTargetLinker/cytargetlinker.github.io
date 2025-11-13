@@ -2,14 +2,24 @@
 
 **CTDbase website**: [www.ctdbase.org/](http://ctdbase.org/)<br/>
 
-**The Comparative Toxicogenomics Database: update 2021.<br/>**
-Davis AP, Grondin CJ, Johnson RJ, Sciaky D, Wiegers J, Wiegers TC, Mattingly CJ.<br/>
-Nucleic Acids Res. 2021 Jan 8;49(D1):D1138-D1143.<br/>
-doi: [10.1093/nar/gkaa891](http://doi.org/10.1093/nar/gkaa891)
+**Comparative Toxicogenomics Database's 20th anniversary: update 2025.<br/>**
+Davis AP, Wiegers TC, Sciaky D, et al. Comparative Toxicogenomics Database's 20th anniversary: update 2025. Nucleic Acids Res. 2025;53(D1):D1328-D1334.<br/>
+doi: [10.1093/nar/gkae883](https://doi.org/10.1093/nar/gkae883)
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **Legal notice**: [License / Terms of Use](http://ctdbase.org/about/legal.jsp) ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 
 *The linkset creation was supported by the funding from the European Union's Horizon 2020 research and innovation programme under the [EJP-RD](https://www.ejprarediseases.org/) COFUND-EJP N825575.*
+
+
+---
+
+### CTD data release June 2025
+
+The database content was retrieved from the [data download page](http://ctdbase.org/downloads/). Don’t forget to first unzip all link set files that you want to use and put them in the same folder.
+
+| Linkset | CTD version | Species | Interactions | Chemicals | Supported chemical identifiers | Proteins | Supported protein identifiers |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [CTD_ChemGene_June2025.xgmml]([https://ndownloader.figshare.com/files/26231723?private_link=e9263f8de7eea111c72d](https://figshare.com/ndownloader/files/59438846)) | 2025-06 | Homo sapiens (hsa) | 121,235 | 3,076 | ChEBI, ChEMBL, Wikidata, CAS | 9,816 | UniProt, NCBI Gene, Ensembl, HGNC |
 
 ---
 
