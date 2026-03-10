@@ -23,9 +23,10 @@ ChEMBL terms of use: [terms of use](https://www.ebi.ac.uk/about/terms-of-use)
 
 **Mechanism of Action Linkset**
 The database content was retrieved through the [ChEMBL Data Web Services](https://chembl.gitbook.io/chembl-interface-documentation/web-services/chembl-data-web-services). Don't forget to first unzip all link set files that you want to use and put them in the same folder.
+
 | Linkset | Date | ChEMBL version | Species | Interactions | Compounds | Target proteins | Supported gene identifiers |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [chembl_25_hsa_202506.zip](https://figshare.com/ndownloader/files/61461853) | 2025-06 | ChEMBL 25 (MoA) | Homo sapiens (hsa) | 11,920 | 4,320 | 1,526 | UniProt, NCBI Gene, Ensembl, HGNC |
+| [chembl_25_hsa_202506.zip](...) | 2025-06 | ChEMBL 25 (MoA) | Homo sapiens (hsa) | 11,920 | 4,320 | 1,526 | UniProt, NCBI Gene, Ensembl, HGNC |
 
 
 ### ChEMBL release 23
