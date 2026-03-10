@@ -30,7 +30,7 @@ The database content was retrieved through the [ChEMBL Data Web Services](https:
 
 ### ChEMBL release 23
 
-The database content was retrieved through the [SPARQL endpoint](https://www.ebi.ac.uk/rdf/services/sparql). Don’t forget to first unzip all link set files that you want to use and put them in the same folder.
+The database content was retrieved through the [SPARQL endpoint](https://chemblmirror.rdf.bigcat-bioinformatics.org/). Don’t forget to first unzip all link set files that you want to use and put them in the same folder.
 
 | Linkset | Date | ChEMBL version | Species | Interactions | Compounds | Target proteins | Supported gene identifiers |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
