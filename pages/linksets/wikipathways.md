@@ -15,6 +15,7 @@ The database content was retrieved through the [WikiPathways SPARQL endpoint](ht
 | Linkset | Species | Interactions | Pathways | Genes | Supported gene identifiers |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [wikipathways_hsa_20260414.xgmml](https://figshare.com/ndownloader/files/64733685) | Homo sapiens (hsa) - curated collection | 46,243 | 1142 | 11,143 | Ensembl, NCBI Gene, HGNC |
+
 ---
 ### WikiPathways release 2024-04-10
 The database content was retrieved through the [WikiPathways SPARQL endpoint](http://sparql.wikipathways.org/) using the relevant [SPARQL query](https://github.com/wikipathways/SPARQLQueries/tree/master/F.%20Datadump). The Linkset can be downloaded from [Figshare](https://doi.org/10.6084/m9.figshare.25712310.v1).
