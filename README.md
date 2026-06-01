@@ -1,10 +1,10 @@
 ## CyTargetLinker website repo
 
-Welcome to the official website repository for CytargetLinker! This website serves as a hub for download links, tutorials, updates, and other resources related to the CytargetLinker app for Cytoscape. 
+Welcome to the official website repository for CyTargetLinker! This website serves as a hub for download links, tutorials, updates, and other resources related to the CyTargetLinker app for Cytoscape. 
 
 ### About CyTargetLinker
 
-CytargetLinker is a bioinformatics tool designed to extend molecular networks with regulatory information, enabling researchers to link gene expression and other omics data with known regulatory interactions such as transcription factors, miRNAs, and drugs. By integrating various interaction types from external databases, CytargetLinker allows users to visualize, explore, and analyze complex regulatory networks in combination with their data.
+CyTargetLinker is a bioinformatics tool designed to extend molecular networks with regulatory information, enabling researchers to link gene expression and other omics data with known regulatory interactions such as transcription factors, miRNAs, and drugs. By integrating various interaction types from external databases, CyTargetLinker allows users to visualize, explore, and analyze complex regulatory networks in combination with their data.
 
 CyTargetLinker is implemented as an app for the network analysis and visualization tool [Cytoscape](https://cytoscape.org/). It is implemented in Java and you can find the source code [here](https://github.com/cytargetlinker/cytargetlinker). 
 
