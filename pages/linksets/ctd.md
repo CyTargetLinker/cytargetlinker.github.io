@@ -19,7 +19,7 @@ The database content was retrieved from the [data download page](http://ctdbase.
 
 | Linkset | CTD version | Species | Interactions | Chemicals | Supported chemical identifiers | Proteins | Supported protein identifiers |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [CTD_ChemGene_June2025.xgmml]([https://ndownloader.figshare.com/files/26231723?private_link=e9263f8de7eea111c72d](https://figshare.com/ndownloader/files/59438846)) | 2025-06 | Homo sapiens (hsa) | 121,235 | 3,076 | ChEBI, ChEMBL, Wikidata, CAS | 9,816 | UniProt, NCBI Gene, Ensembl, HGNC |
+| [CTD_ChemGene_June2025.xgmml](https://figshare.com/ndownloader/files/59438846) | 2025-06 | Homo sapiens (hsa) | 121,235 | 3,076 | ChEBI, ChEMBL, Wikidata, CAS | 9,816 | UniProt, NCBI Gene, Ensembl, HGNC |
 
 ---
 
